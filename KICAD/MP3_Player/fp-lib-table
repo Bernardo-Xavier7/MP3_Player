@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MAX17048G")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/MAX17048G.pretty")(options "")(descr ""))
+  (lib (name "ST67W611M1A6B")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/ST67W611M1A6B.pretty")(options "")(descr ""))
+)
