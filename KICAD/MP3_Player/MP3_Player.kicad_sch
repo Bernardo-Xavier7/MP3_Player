@@ -23,6 +23,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 39.37) (xy 218.44 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06c91a86-6c48-4147-a109-29d8186be3a8")
+	)
+	(wire
+		(pts
 			(xy 45.72 44.45) (xy 33.02 44.45)
 		)
 		(stroke
@@ -99,7 +109,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "5fdca540-f588-4122-ab04-d71a39567e2f")
+		(uuid "5d1e30e0-e273-4672-9e29-b338e36b9519")
 	)
 	(wire
 		(pts
@@ -340,16 +350,6 @@
 			(type default)
 		)
 		(uuid "e123d345-3db0-4dca-a2c7-cce46342d774")
-	)
-	(wire
-		(pts
-			(xy 166.37 39.37) (xy 218.44 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6c695da-137d-4a28-8b9f-0b8baf9f7c34")
 	)
 	(wire
 		(pts
@@ -694,16 +694,6 @@
 				(justify left top)
 			)
 		)
-		(pin "CODEC_BCK" input
-			(at 218.44 36.83 180)
-			(uuid "fb6be74e-51d3-4cb6-9f32-072e7779b9bb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "MIC_WS" input
 			(at 218.44 54.61 180)
 			(uuid "cea60108-42c0-42e8-b16f-f7760c70b97c")
@@ -724,39 +714,49 @@
 				(justify left)
 			)
 		)
-		(pin "CODEC_LRCK" input
-			(at 218.44 39.37 180)
-			(uuid "2637be40-cae7-49d5-ae11-2dbc1407982c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "CODEC_DIN" input
-			(at 218.44 41.91 180)
-			(uuid "a0c2f7d3-cc7d-44a9-b390-91211ef59d8a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "CODEC_XSMT" input
-			(at 218.44 44.45 180)
-			(uuid "d396ee6a-beb2-4183-83a6-840dfafeecbc")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "MIC_SCK" input
 			(at 218.44 49.53 180)
 			(uuid "5c00863f-7af7-4697-879a-5600e9fd0d96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DAC_DIN" input
+			(at 218.44 41.91 180)
+			(uuid "29eb351e-2be7-483a-a689-6ab5dc00491c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DAC_XSMT" input
+			(at 218.44 44.45 180)
+			(uuid "7ebe763a-2d4f-4068-894e-c713ac4fd289")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DAC_LRCK" input
+			(at 218.44 39.37 180)
+			(uuid "6f8e0bf6-8a7c-47be-9857-1f7fb50eac9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DAC_BCK" input
+			(at 218.44 36.83 180)
+			(uuid "5e1da013-0ec7-48c1-ad72-1aac8befea21")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1162,7 +1162,7 @@
 	)
 	(sheet
 		(at 137.16 31.75)
-		(size 29.21 101.6)
+		(size 29.21 106.68)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1499,46 +1499,6 @@
 				(justify left)
 			)
 		)
-		(pin "CODEC_BCK" output
-			(at 166.37 36.83 0)
-			(uuid "8cd307da-f7c4-4cb6-b289-d2ecb35f0dec")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CODEC_DIN" output
-			(at 166.37 41.91 0)
-			(uuid "dae056b6-6e92-4192-bfea-51fc85056d28")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CODEC_LRCK" output
-			(at 166.37 39.37 0)
-			(uuid "90920bf2-7a2d-4805-99f6-5011340fde8d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CODEC_XSMT" output
-			(at 166.37 44.45 0)
-			(uuid "cff899ba-43e6-4c19-9f6c-92b8018ed7ec")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "MIC_SCK" output
 			(at 166.37 49.53 0)
 			(uuid "3118bdcc-d848-461f-9fdc-48ad1dff0f34")
@@ -1562,6 +1522,46 @@
 		(pin "MIC_WS" output
 			(at 166.37 54.61 0)
 			(uuid "bbfccb7b-dbaf-4001-941a-27ba35041e8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DAC_BCK" output
+			(at 166.37 36.83 0)
+			(uuid "89e00f69-61a9-48f8-b6e5-5a26bcf41e4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DAC_DIN" output
+			(at 166.37 41.91 0)
+			(uuid "4d228995-b6ee-4ef4-b4cd-bff9d5ff0582")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DAC_LRCK" output
+			(at 166.37 39.37 0)
+			(uuid "2deb9f28-b36f-4980-9422-d970f770aee5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DAC_XSMT" output
+			(at 166.37 44.45 0)
+			(uuid "8e8a785c-6bb3-4caa-94f4-2ec3fc940b51")
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1866,7 +1866,7 @@
 		)
 		(uuid "397df14b-deb6-482a-bbdf-c6db6e36be6f")
 	)
-	(text "I2S CODEC"
+	(text "I2S DAC"
 		(exclude_from_sim no)
 		(at 156.972 123.444 0)
 		(effects
@@ -1957,7 +1957,7 @@
 		(uuid "530d852a-2d66-49f5-b267-3a3dfd975531")
 	)
 	(junction
-		(at 198.12 67.31)
+		(at 203.2 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "695ff9d0-f466-466f-968c-2e423b3fd618")
@@ -1999,7 +1999,7 @@
 		(uuid "84ddfc4b-aa78-478e-aadd-2fc1199d0eb8")
 	)
 	(junction
-		(at 198.12 81.28)
+		(at 203.2 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "880fbb92-7b58-4791-a4c8-32fb6263ab21")
@@ -2035,7 +2035,7 @@
 		(uuid "a0fd037a-a5b6-4194-aedc-acc748a659ee")
 	)
 	(junction
-		(at 186.69 69.85)
+		(at 191.77 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c08e78be-47a3-424e-8997-e8c830a46517")
@@ -2218,7 +2218,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 80.01) (xy 198.12 81.28)
+			(xy 203.2 80.01) (xy 203.2 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2245,16 +2245,6 @@
 			(type default)
 		)
 		(uuid "1a278999-a80b-4f09-ad23-b0d6d7ddb5ca")
-	)
-	(wire
-		(pts
-			(xy 209.55 69.85) (xy 186.69 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b5f16eb-a851-4325-9d3b-d0dafe7b5bae")
 	)
 	(wire
 		(pts
@@ -2328,23 +2318,13 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 87.63) (xy 168.91 87.63)
+			(xy 166.37 87.63) (xy 170.18 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "39cc21a5-ab6a-4a32-891c-58402eba9cb5")
-	)
-	(wire
-		(pts
-			(xy 198.12 81.28) (xy 213.36 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d596089-750a-4037-b2ea-bca865280376")
 	)
 	(wire
 		(pts
@@ -2388,7 +2368,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 95.25) (xy 168.91 95.25)
+			(xy 166.37 95.25) (xy 170.18 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2448,7 +2428,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 69.85) (xy 181.61 69.85)
+			(xy 181.61 69.85) (xy 209.55 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2548,16 +2528,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 67.31) (xy 217.17 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ccaffa4-276b-421e-96cb-f26390ede48c")
-	)
-	(wire
-		(pts
 			(xy 151.13 62.23) (xy 156.21 62.23)
 		)
 		(stroke
@@ -2608,7 +2578,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 67.31) (xy 198.12 72.39)
+			(xy 203.2 67.31) (xy 203.2 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2698,7 +2668,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 69.85) (xy 186.69 72.39)
+			(xy 191.77 69.85) (xy 191.77 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2778,7 +2748,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 81.28) (xy 198.12 81.28)
+			(xy 191.77 81.28) (xy 213.36 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3078,7 +3048,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 80.01) (xy 186.69 81.28)
+			(xy 191.77 80.01) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3318,7 +3288,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 67.31) (xy 198.12 67.31)
+			(xy 179.07 67.31) (xy 217.17 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3476,7 +3446,7 @@
 		)
 		(uuid "f705b08c-ded1-4533-89b8-27b0bdd0c4d8")
 	)
-	(hierarchical_label "CODEC_XSMT"
+	(hierarchical_label "DAC_XSMT"
 		(shape input)
 		(at 132.08 97.79 180)
 		(effects
@@ -3487,7 +3457,7 @@
 		)
 		(uuid "55bea1a3-d822-4af8-8f3f-f5dfd43ef561")
 	)
-	(hierarchical_label "CODEC_LRCK"
+	(hierarchical_label "DAC_LRCK"
 		(shape input)
 		(at 132.08 80.01 180)
 		(effects
@@ -3520,7 +3490,7 @@
 		)
 		(uuid "9cd7797f-8677-4db4-9820-9a0f428d6bd7")
 	)
-	(hierarchical_label "CODEC_DIN"
+	(hierarchical_label "DAC_DIN"
 		(shape input)
 		(at 132.08 82.55 180)
 		(effects
@@ -3542,7 +3512,7 @@
 		)
 		(uuid "f5c2ec79-cbad-4d03-ab26-222c802d199a")
 	)
-	(hierarchical_label "CODEC_BCK"
+	(hierarchical_label "DAC_BCK"
 		(shape input)
 		(at 132.08 85.09 180)
 		(effects
@@ -3879,7 +3849,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 186.69 76.2 0)
+		(at 191.77 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3890,7 +3860,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d8701ed-9627-464a-8ea5-39594866e726")
 		(property "Reference" "C43"
-			(at 190.5 74.9299 0)
+			(at 195.58 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3901,7 +3871,7 @@
 			)
 		)
 		(property "Value" "2n2"
-			(at 190.5 77.4699 0)
+			(at 195.58 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3912,7 +3882,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.6552 80.01 0)
+			(at 192.7352 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3923,7 +3893,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 76.2 0)
+			(at 191.77 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3934,7 +3904,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 186.69 76.2 0)
+			(at 191.77 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4475,7 +4445,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 168.91 91.44 0)
+		(at 170.18 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4485,8 +4455,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7338dde2-ade8-45a5-b693-068ea97b2547")
-		(property "Reference" "CAPM"
-			(at 172.72 90.1699 0)
+		(property "Reference" "C45"
+			(at 173.99 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4497,7 +4467,7 @@
 			)
 		)
 		(property "Value" "2u2"
-			(at 172.72 92.7099 0)
+			(at 173.99 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4508,7 +4478,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 169.8752 95.25 0)
+			(at 171.1452 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4519,7 +4489,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 91.44 0)
+			(at 170.18 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4530,7 +4500,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 168.91 91.44 0)
+			(at 170.18 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4549,7 +4519,7 @@
 		(instances
 			(project "MP3_Player"
 				(path "/5963f475-7f70-4482-9734-331d34890960/31a039c0-b270-42d0-8a83-cc75fb8b1933"
-					(reference "CAPM")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -5915,7 +5885,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 198.12 76.2 0)
+		(at 203.2 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5926,7 +5896,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce76d740-d2ca-4a1d-bdec-80d72b41c840")
 		(property "Reference" "C44"
-			(at 201.93 74.9299 0)
+			(at 207.01 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5937,7 +5907,7 @@
 			)
 		)
 		(property "Value" "2n2"
-			(at 201.93 77.4699 0)
+			(at 207.01 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5948,7 +5918,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.0852 80.01 0)
+			(at 204.1652 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5959,7 +5929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 76.2 0)
+			(at 203.2 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5970,7 +5940,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 198.12 76.2 0)
+			(at 203.2 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6166,10 +6136,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "df013375-2cb8-4b3b-8765-8049ac624190")
 		(property "Reference" "U6"
-			(at 158.3533 72.39 0)
+			(at 158.496 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6180,7 +6149,7 @@
 			)
 		)
 		(property "Value" "PCM5102AQPWRQ1"
-			(at 158.3533 74.93 0)
+			(at 158.496 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
