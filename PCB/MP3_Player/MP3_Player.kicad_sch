@@ -43,16 +43,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 173.99) (xy 156.21 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16ef6ac6-7ca5-4f08-a50e-d81c18b7896e")
-	)
-	(wire
-		(pts
 			(xy 166.37 120.65) (xy 218.44 120.65)
 		)
 		(stroke
@@ -60,6 +50,16 @@
 			(type default)
 		)
 		(uuid "17a3813a-2f7b-47df-8f15-0ac4c10fe462")
+	)
+	(wire
+		(pts
+			(xy 113.03 166.37) (xy 148.59 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c918856-503c-40dc-9d98-016d01cbdb92")
 	)
 	(wire
 		(pts
@@ -99,7 +99,27 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "4da5e5b5-07e8-4e3f-b727-0a481ecb3119")
+		(uuid "5819e1fb-d677-459d-9b25-57d2d6aaeea9")
+	)
+	(wire
+		(pts
+			(xy 148.59 166.37) (xy 148.59 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58d56847-74bc-4c88-b6e3-0b2f7a93e5c0")
+	)
+	(wire
+		(pts
+			(xy 113.03 173.99) (xy 156.21 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bc3ada7-e471-4642-ba13-0a60661fa79c")
 	)
 	(wire
 		(pts
@@ -203,16 +223,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 166.37) (xy 148.59 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "960e1e92-fb6e-49c2-8331-2279db357727")
-	)
-	(wire
-		(pts
 			(xy 74.93 39.37) (xy 137.16 39.37)
 		)
 		(stroke
@@ -250,16 +260,6 @@
 			(type default)
 		)
 		(uuid "bbb478ea-9ce1-424e-8cc6-706f9ebbf915")
-	)
-	(wire
-		(pts
-			(xy 113.03 166.37) (xy 148.59 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc2d8f84-5f41-45b8-9873-1653e94f01cc")
 	)
 	(wire
 		(pts
@@ -333,7 +333,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 171.45) (xy 153.67 133.35)
+			(xy 153.67 171.45) (xy 153.67 138.43)
 		)
 		(stroke
 			(width 0)
@@ -423,7 +423,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 133.35) (xy 156.21 173.99)
+			(xy 156.21 138.43) (xy 156.21 173.99)
 		)
 		(stroke
 			(width 0)
@@ -1200,7 +1200,7 @@
 			)
 		)
 		(pin "+VBAT" bidirectional
-			(at 148.59 133.35 270)
+			(at 148.59 138.43 270)
 			(uuid "c3a7e21d-24e1-4343-8832-3ccbfeb287b5")
 			(effects
 				(font
@@ -1210,7 +1210,7 @@
 			)
 		)
 		(pin "SCL" output
-			(at 153.67 133.35 270)
+			(at 153.67 138.43 270)
 			(uuid "7b07e3a6-f982-441f-9275-0385b5c19419")
 			(effects
 				(font
@@ -1220,7 +1220,7 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 156.21 133.35 270)
+			(at 156.21 138.43 270)
 			(uuid "7331a717-6915-4614-af61-69eedbeeffcc")
 			(effects
 				(font

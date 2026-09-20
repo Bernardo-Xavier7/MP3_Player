@@ -2557,8 +2557,8 @@
 		)
 	)
 	(rectangle
-		(start 114.3 139.7)
-		(end 129.54 151.13)
+		(start 49.53 152.4)
+		(end 64.77 163.83)
 		(stroke
 			(width 0)
 			(type default)
@@ -2583,7 +2583,7 @@
 	)
 	(text "Battery BOM Placeholder"
 		(exclude_from_sim no)
-		(at 124.46 154.432 0)
+		(at 57.658 167.386 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -2617,7 +2617,7 @@
 	)
 	(text "For ERC\nIgnore"
 		(exclude_from_sim no)
-		(at 50.546 130.81 0)
+		(at 89.154 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2636,6 +2636,16 @@
 			)
 		)
 		(uuid "9a3683c0-6837-415a-8dbc-0646255909bd")
+	)
+	(text "GND Test \npoint"
+		(exclude_from_sim no)
+		(at 108.966 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aefbf110-ed1f-4ea9-98c8-108fc82ece4b")
 	)
 	(text "Power Switch"
 		(exclude_from_sim no)
@@ -2764,7 +2774,7 @@
 		(uuid "fa94c519-f126-4d12-9525-ef4d2d9463eb")
 	)
 	(no_connect
-		(at 125.73 143.51)
+		(at 60.96 156.21)
 		(uuid "0ce6e8bd-b643-4c4d-be30-c7d299620693")
 	)
 	(no_connect
@@ -2780,7 +2790,7 @@
 		(uuid "77f99d75-e920-49c8-a8f6-81e5f823ec35")
 	)
 	(no_connect
-		(at 118.11 143.51)
+		(at 53.34 156.21)
 		(uuid "9a6a50bf-3bf4-4d53-802e-94589b5c84e6")
 	)
 	(no_connect
@@ -2833,7 +2843,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 129.54) (xy 41.91 132.08)
+			(xy 95.25 129.54) (xy 95.25 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2853,7 +2863,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 125.73) (xy 101.6 127)
+			(xy 102.87 130.81) (xy 102.87 132.08)
 		)
 		(stroke
 			(width 0)
@@ -3967,7 +3977,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 127 0)
+		(at 102.87 132.08 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3978,7 +3988,7 @@
 		(fields_autoplaced yes)
 		(uuid "19cde84c-62d9-476e-8937-583195b8a88e")
 		(property "Reference" "#PWR057"
-			(at 101.6 133.35 0)
+			(at 102.87 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3989,7 +3999,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 101.6 132.08 0)
+			(at 102.87 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4000,7 +4010,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 127 0)
+			(at 102.87 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4011,7 +4021,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 127 0)
+			(at 102.87 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4022,7 +4032,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 127 0)
+			(at 102.87 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5526,7 +5536,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 41.91 129.54 0)
+		(at 95.25 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5537,7 +5547,7 @@
 		(fields_autoplaced yes)
 		(uuid "85e70e19-c831-436f-80c5-27a8cbee3d4a")
 		(property "Reference" "#FLG01"
-			(at 41.91 127.635 0)
+			(at 95.25 127.635 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5548,7 +5558,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 41.91 124.46 0)
+			(at 95.25 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5558,7 +5568,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 129.54 0)
+			(at 95.25 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5569,7 +5579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 129.54 0)
+			(at 95.25 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5580,7 +5590,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 41.91 129.54 0)
+			(at 95.25 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5775,7 +5785,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 123.19 143.51 90)
+		(at 58.42 156.21 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5785,7 +5795,7 @@
 		(dnp no)
 		(uuid "92028d77-0844-4609-9009-2f602aeccf86")
 		(property "Reference" "BT1"
-			(at 122.428 147.32 90)
+			(at 57.658 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5795,7 +5805,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 122.3645 148.844 90)
+			(at 57.5945 161.544 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5805,7 +5815,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.666 143.51 90)
+			(at 56.896 156.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5816,7 +5826,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.666 143.51 90)
+			(at 56.896 156.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5827,7 +5837,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 123.19 143.51 0)
+			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5838,7 +5848,7 @@
 			)
 		)
 		(property "Sim.Device" "V"
-			(at 123.19 143.51 0)
+			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5849,7 +5859,7 @@
 			)
 		)
 		(property "Sim.Type" "DC"
-			(at 123.19 143.51 0)
+			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5860,7 +5870,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 123.19 143.51 0)
+			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5871,7 +5881,7 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
-			(at 123.19 143.51 90)
+			(at 58.42 156.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6056,7 +6066,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 41.91 132.08 0)
+		(at 95.25 132.08 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6067,7 +6077,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca9a428d-9803-4da3-9eef-1abf632dd716")
 		(property "Reference" "#PWR074"
-			(at 41.91 138.43 0)
+			(at 95.25 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6078,7 +6088,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 41.91 137.16 0)
+			(at 95.25 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6089,7 +6099,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 132.08 0)
+			(at 95.25 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6100,7 +6110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 132.08 0)
+			(at 95.25 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6111,7 +6121,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 132.08 0)
+			(at 95.25 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6573,7 +6583,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 101.6 125.73 0)
+		(at 102.87 130.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6583,7 +6593,7 @@
 		(dnp no)
 		(uuid "e6c5c2ee-112f-4ec7-b660-a1c754a25aef")
 		(property "Reference" "TP4"
-			(at 105.283 121.285 0)
+			(at 103.124 122.428 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6593,7 +6603,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.283 123.825 0)
+			(at 103.124 124.968 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6603,7 +6613,7 @@
 			)
 		)
 		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 106.68 125.73 0)
+			(at 107.95 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6614,7 +6624,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 125.73 0)
+			(at 107.95 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6625,7 +6635,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 101.6 125.73 0)
+			(at 102.87 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

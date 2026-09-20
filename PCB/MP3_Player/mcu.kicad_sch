@@ -3474,6 +3474,16 @@
 		)
 		(uuid "1fde747a-b28f-4aa7-b553-f35bf641b2ad")
 	)
+	(text "Change if it has\naddress conflicts"
+		(exclude_from_sim no)
+		(at 39.878 169.926 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "29de5a39-cd62-4827-bc0a-9ab466d1eecf")
+	)
 	(text "Boot Set Pins"
 		(exclude_from_sim no)
 		(at 50.546 78.74 0)
