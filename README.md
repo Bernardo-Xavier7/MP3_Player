@@ -3,14 +3,35 @@ Just a simple MP3 player project. Features a built-in microphone, FM module, Wif
 
 # To-Do
 - [ ] Hardware
-  - [ ] MCU
-  - [ ] USB
-  - [ ] Power
-  - [ ] Audio
-  - [ ] Storage
-  - [ ] Buttons
-  - [ ] Display
-  - [ ] Wireless
+  - [ ] Schematic
+    - [x] MCU
+    - [x] USB
+    - [x] Power
+    - [x] Audio
+    - [x] Storage
+    - [x] Buttons
+    - [x] Display
+    - [x] Wireless
+    - [ ] Revision
+  - [ ] PCB
+    - [ ] Layout
+    - [ ] Routing
+    - [ ] Revision
+  - [ ] Firmware
+    - [ ] Menu
+      - [ ] Buttons
+      - [ ] Display
+    - [ ] USB Handling
+    - [ ] Power Measuring and Display
+    - [ ] Play Audio
+    - [ ] Record
+    - [ ] SD Card File System and Mass Storage
+    - [ ] Wireless Conectivity
+    - [ ] Revision
+  - [ ] Case
+    - [ ] Model
+    - [ ] Test
+    - [ ] Revision
 # Useful Links
 | Link | Description |
 | ---- | ---- |
