@@ -2312,6 +2312,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Vout = Vin * (R2/R1+R2)\nVout = 5 * (15/10+15)\nVout = 3V"
+		(exclude_from_sim no)
+		(at 135.636 146.558 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "261fd399-a7c0-4d57-b260-8456c3605c6f")
+	)
 	(text "Reverse-protection \nDiodes"
 		(exclude_from_sim no)
 		(at 134.366 30.48 0)
@@ -2326,7 +2337,7 @@
 	)
 	(text "USB Comutator Switch\n"
 		(exclude_from_sim no)
-		(at 102.108 108.966 0)
+		(at 61.976 88.9 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -2350,7 +2361,7 @@
 	)
 	(text "Resistor Dividers\nfor USB Sensing"
 		(exclude_from_sim no)
-		(at 115.316 144.78 0)
+		(at 107.696 144.78 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -2403,6 +2414,12 @@
 		(uuid "75580cce-e9e4-4999-9096-7e44c9b770a2")
 	)
 	(junction
+		(at 90.17 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a25f55fa-9de5-4455-945e-34bbd54003b0")
+	)
+	(junction
 		(at 102.87 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2415,7 +2432,7 @@
 		(uuid "b3b21877-b27b-4c29-8e5d-3fda681bd6f3")
 	)
 	(junction
-		(at 134.62 152.4)
+		(at 127 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2d2a9f5-7675-4695-a5d4-19f808373166")
@@ -2540,7 +2557,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 139.7) (xy 158.75 139.7)
+			(xy 127 139.7) (xy 158.75 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2580,7 +2597,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 152.4) (xy 134.62 149.86)
+			(xy 127 152.4) (xy 127 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2720,7 +2737,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 152.4) (xy 134.62 152.4)
+			(xy 124.46 152.4) (xy 127 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2780,7 +2797,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 93.98) (xy 90.17 102.87)
+			(xy 90.17 93.98) (xy 90.17 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3000,6 +3017,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 110.49) (xy 90.17 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baffdc3f-cd7a-495f-ad08-0b2790a04b09")
+	)
+	(wire
+		(pts
 			(xy 151.13 93.98) (xy 113.03 93.98)
 		)
 		(stroke
@@ -3010,7 +3037,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 162.56) (xy 134.62 163.83)
+			(xy 127 162.56) (xy 127 163.83)
 		)
 		(stroke
 			(width 0)
@@ -3140,6 +3167,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 102.87) (xy 90.17 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec86258e-2f7a-47dc-8c65-f28f163e9ba4")
+	)
+	(wire
+		(pts
 			(xy 163.83 152.4) (xy 166.37 152.4)
 		)
 		(stroke
@@ -3150,7 +3187,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 102.87) (xy 87.63 102.87)
+			(xy 90.17 101.6) (xy 87.63 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3160,7 +3197,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 142.24) (xy 134.62 139.7)
+			(xy 127 142.24) (xy 127 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3180,7 +3217,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 152.4) (xy 134.62 154.94)
+			(xy 127 152.4) (xy 127 154.94)
 		)
 		(stroke
 			(width 0)
@@ -3281,7 +3318,7 @@
 	)
 	(hierarchical_label "Sensing_USB-C"
 		(shape output)
-		(at 132.08 152.4 180)
+		(at 124.46 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3303,7 +3340,7 @@
 	)
 	(hierarchical_label "Output SW"
 		(shape input)
-		(at 87.63 102.87 180)
+		(at 87.63 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3336,7 +3373,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 134.62 146.05 0)
+		(at 127 146.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3347,7 +3384,7 @@
 		(fields_autoplaced yes)
 		(uuid "08249385-9873-4c66-b635-7426035cba4c")
 		(property "Reference" "R4"
-			(at 137.16 144.7799 0)
+			(at 129.54 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3358,7 +3395,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.16 147.3199 0)
+			(at 129.54 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3369,7 +3406,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.842 146.05 90)
+			(at 125.222 146.05 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3380,7 +3417,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 146.05 0)
+			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3391,7 +3428,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 134.62 146.05 0)
+			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3402,7 +3439,7 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
-			(at 134.62 146.05 0)
+			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3819,7 +3856,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 134.62 158.75 0)
+		(at 127 158.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3830,7 +3867,7 @@
 		(fields_autoplaced yes)
 		(uuid "46dfe2f1-5d93-4710-9075-3b96f34df450")
 		(property "Reference" "R5"
-			(at 137.16 157.4799 0)
+			(at 129.54 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3841,7 +3878,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 137.16 160.0199 0)
+			(at 129.54 160.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3852,7 +3889,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.842 158.75 90)
+			(at 125.222 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3863,7 +3900,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 158.75 0)
+			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3874,7 +3911,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 134.62 158.75 0)
+			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3885,7 +3922,7 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
-			(at 134.62 158.75 0)
+			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4386,6 +4423,88 @@
 			(project "MP3_Player"
 				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 90.17 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7828cb5a-9765-492d-ba27-0e61312fb6cc")
+		(property "Reference" "R8"
+			(at 92.71 105.4099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 92.71 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.392 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3c70da00-1cf8-464a-bef4-f25f9f5831b6")
+		)
+		(pin "1"
+			(uuid "9c414fc3-ccbf-45f4-8c1b-14aa8f2652dc")
+		)
+		(instances
+			(project "MP3_Player"
+				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -5185,7 +5304,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 163.83 0)
+		(at 127 163.83 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5197,7 +5316,7 @@
 		(fields_autoplaced yes)
 		(uuid "f48adb7c-aeb8-4956-8bb0-0807da5e1edf")
 		(property "Reference" "#PWR015"
-			(at 134.62 170.18 0)
+			(at 127 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5208,7 +5327,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 134.62 168.91 0)
+			(at 127 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5219,7 +5338,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 163.83 0)
+			(at 127 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5230,7 +5349,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 163.83 0)
+			(at 127 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5241,7 +5360,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 163.83 0)
+			(at 127 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5258,6 +5377,85 @@
 			(project "MP3_Player"
 				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 90.17 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd9b74cb-871c-4b9b-98b4-124b4223c002")
+		(property "Reference" "#PWR075"
+			(at 90.17 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fec17adf-757d-4045-a7ca-da68255dbe24")
+		)
+		(instances
+			(project "MP3_Player"
+				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)

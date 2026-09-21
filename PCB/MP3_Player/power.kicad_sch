@@ -2617,7 +2617,7 @@
 	)
 	(text "For ERC\nIgnore"
 		(exclude_from_sim no)
-		(at 89.154 130.81 0)
+		(at 100.584 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2639,7 +2639,7 @@
 	)
 	(text "GND Test \npoint"
 		(exclude_from_sim no)
-		(at 108.966 130.81 0)
+		(at 120.396 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2843,7 +2843,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 129.54) (xy 95.25 132.08)
+			(xy 106.68 158.75) (xy 106.68 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2863,7 +2863,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 130.81) (xy 102.87 132.08)
+			(xy 114.3 160.02) (xy 114.3 161.29)
 		)
 		(stroke
 			(width 0)
@@ -3977,7 +3977,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 102.87 132.08 0)
+		(at 114.3 161.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3988,7 +3988,7 @@
 		(fields_autoplaced yes)
 		(uuid "19cde84c-62d9-476e-8937-583195b8a88e")
 		(property "Reference" "#PWR057"
-			(at 102.87 138.43 0)
+			(at 114.3 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3999,7 +3999,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 137.16 0)
+			(at 114.3 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4010,7 +4010,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 132.08 0)
+			(at 114.3 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4021,7 +4021,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 132.08 0)
+			(at 114.3 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4032,7 +4032,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 132.08 0)
+			(at 114.3 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5536,7 +5536,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 95.25 129.54 0)
+		(at 106.68 158.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5547,7 +5547,7 @@
 		(fields_autoplaced yes)
 		(uuid "85e70e19-c831-436f-80c5-27a8cbee3d4a")
 		(property "Reference" "#FLG01"
-			(at 95.25 127.635 0)
+			(at 106.68 156.845 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5558,7 +5558,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 95.25 124.46 0)
+			(at 106.68 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5568,7 +5568,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 129.54 0)
+			(at 106.68 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5579,7 +5579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 129.54 0)
+			(at 106.68 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5590,7 +5590,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 95.25 129.54 0)
+			(at 106.68 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6066,7 +6066,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 132.08 0)
+		(at 106.68 161.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6077,7 +6077,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca9a428d-9803-4da3-9eef-1abf632dd716")
 		(property "Reference" "#PWR074"
-			(at 95.25 138.43 0)
+			(at 106.68 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6088,7 +6088,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 137.16 0)
+			(at 106.68 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6099,7 +6099,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 132.08 0)
+			(at 106.68 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6110,7 +6110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 132.08 0)
+			(at 106.68 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6121,7 +6121,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 132.08 0)
+			(at 106.68 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6583,7 +6583,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 102.87 130.81 0)
+		(at 114.3 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6593,7 +6593,7 @@
 		(dnp no)
 		(uuid "e6c5c2ee-112f-4ec7-b660-a1c754a25aef")
 		(property "Reference" "TP4"
-			(at 103.124 122.428 0)
+			(at 114.554 151.638 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6603,7 +6603,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 103.124 124.968 0)
+			(at 114.554 154.178 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6613,7 +6613,7 @@
 			)
 		)
 		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 107.95 130.81 0)
+			(at 119.38 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6624,7 +6624,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 130.81 0)
+			(at 119.38 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6635,7 +6635,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 102.87 130.81 0)
+			(at 114.3 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

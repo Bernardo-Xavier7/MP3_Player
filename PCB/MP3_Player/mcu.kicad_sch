@@ -3463,14 +3463,13 @@
 		)
 		(uuid "17b187c3-8e30-440e-ad6e-d8dbd2cae89c")
 	)
-	(text "Only cut and bridge once \n  MCU firmware is done"
+	(text "Cut and bridge once MCU\nfirmware is done"
 		(exclude_from_sim no)
-		(at 23.622 90.424 0)
+		(at 31.496 94.488 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
 		)
 		(uuid "1fde747a-b28f-4aa7-b553-f35bf641b2ad")
 	)
