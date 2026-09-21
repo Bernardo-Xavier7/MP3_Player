@@ -1,1 +1,24 @@
+# --- STM32Cube / GCC ---
+**/Debug/
+**/Release/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# --- KiCad ---
+*.bck
+*.lck
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+fp-info-cache
+
+# --- FreeCAD ---
+*.FCStd.bak
+*.lock
+
+# --- Github ---
 .history/
