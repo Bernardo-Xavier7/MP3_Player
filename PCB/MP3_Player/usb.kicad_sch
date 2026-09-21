@@ -3449,6 +3449,28 @@
 				)
 			)
 		)
+		(property "Store URL - Other" ""
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d4702b74-6275-48f9-bf46-88db9e302d3a")
 		)
@@ -3610,6 +3632,28 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 186.69 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 186.69 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
 			(at 186.69 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3815,6 +3859,28 @@
 				)
 			)
 		)
+		(property "Store URL - Other" ""
+			(at 102.87 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 102.87 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "29a7d8da-89cf-4d4f-8f39-3695dee8d163")
 		)
@@ -3922,6 +3988,28 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 127 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 127 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
 			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4071,7 +4159,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/88741/sl22.pdf"
 			(at 156.21 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4082,7 +4170,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Diode DO-214AA (SMB)"
 			(at 156.21 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4116,6 +4204,61 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 156.21 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 156.21 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 156.21 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "SL22-E3/5BT"
+			(at 156.21 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-general-semiconductor-diodes-division/SL22-E3-5BT/2146301"
+			(at 156.21 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay-Semiconductors/SL22-E3-5BT?qs=nmw3K3MsCZYHekq5zo30%252Bg%3D%3D"
 			(at 156.21 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4298,6 +4441,28 @@
 				)
 			)
 		)
+		(property "Store URL - Other" ""
+			(at 166.37 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 166.37 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8d6ab03-8ff2-402e-a6ed-2ba061d110f4")
 		)
@@ -4358,7 +4523,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/88741/sl22.pdf"
 			(at 166.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4369,7 +4534,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Diode DO-214AA (SMB)"
 			(at 166.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4403,6 +4568,61 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 166.37 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 166.37 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 166.37 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "SL22-E3/5BT"
+			(at 166.37 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-general-semiconductor-diodes-division/SL22-E3-5BT/2146301"
+			(at 166.37 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay-Semiconductors/SL22-E3-5BT?qs=nmw3K3MsCZYHekq5zo30%252Bg%3D%3D"
 			(at 166.37 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4485,6 +4705,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
 			(at 90.17 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4655,6 +4897,28 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 186.69 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 186.69 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
 			(at 186.69 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4928,6 +5192,28 @@
 				)
 			)
 		)
+		(property "Store URL - Other" ""
+			(at 134.62 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 134.62 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f2d94994-ed14-4ac4-aa9a-7be7243b2705")
 		)
@@ -5021,6 +5307,28 @@
 				)
 			)
 		)
+		(property "Store URL - Other" ""
+			(at 142.24 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
+			(at 142.24 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "89ab95cd-5110-419d-ab13-861cb0eac867")
 		)
@@ -5081,7 +5389,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KP5NNNC_Spec.pdf"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5092,7 +5400,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0402"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5104,6 +5412,61 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CL05B104KP5NNNC"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/samsung-electro-mechanics/CL05B104KP5NNNC/3886660"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Samsung-Electro-Mechanics/CL05B104KP5NNNC?qs=349EhDEZ59qDkVTTBSSSxw%3D%3D"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5277,6 +5640,28 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
+			(at 166.37 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" ""
+			(at 166.37 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - TME" ""
 			(at 166.37 146.05 0)
 			(hide yes)
 			(show_name no)

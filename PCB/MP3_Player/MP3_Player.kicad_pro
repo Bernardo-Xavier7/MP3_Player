@@ -675,6 +675,12 @@
         },
         {
           "group_by": false,
+          "label": "Mfr. Part #",
+          "name": "Mfr. Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Store URL - Digikey",
           "name": "Store URL - Digikey",
           "show": true
@@ -735,12 +741,6 @@
         },
         {
           "group_by": false,
-          "label": "Mfr. Part #",
-          "name": "Mfr. Part #",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "MF",
           "name": "MF",
           "show": false
@@ -798,6 +798,18 @@
           "label": "PARTREV",
           "name": "PARTREV",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Store URL - TME",
+          "name": "Store URL - TME",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Store URL - Other",
+          "name": "Store URL - Other",
+          "show": true
         }
       ],
       "filter_string": "",
