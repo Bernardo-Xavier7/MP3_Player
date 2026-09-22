@@ -351,7 +351,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:USB_C_Receptacle"
+		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
 				(offset 1.016)
 			)
@@ -360,26 +360,24 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -10.16 29.21 0)
+			(property "Reference" "J2"
+				(at 0 22.86 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "USB_C_Receptacle"
-				(at 10.16 29.21 0)
+			(property "Value" "USB_C_Receptacle_USB2.0_16P"
+				(at 0 20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
 			(property "Footprint" ""
@@ -404,7 +402,7 @@
 					)
 				)
 			)
-			(property "Description" "USB Full-Featured Type-C Receptacle connector"
+			(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -415,7 +413,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "usb universal serial bus type-C full-featured"
+			(property "ki_keywords" "usb universal serial bus type-C USB2.0"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -437,10 +435,10 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_0_0"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_0"
 				(rectangle
-					(start -0.254 -35.56)
-					(end 0.254 -34.544)
+					(start 2.286 -17.78)
+					(end 2.794 -16.764)
 					(stroke
 						(width 0)
 						(type default)
@@ -450,41 +448,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 25.654)
-					(end 9.144 25.146)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 20.574)
-					(end 9.144 20.066)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 18.034)
-					(end 9.144 17.526)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 12.954)
-					(end 9.144 12.446)
+					(start 10.16 15.494)
+					(end 9.144 14.986)
 					(stroke
 						(width 0)
 						(type default)
@@ -516,8 +481,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 5.334)
-					(end 9.144 4.826)
+					(start 10.16 2.794)
+					(end 9.144 2.286)
 					(stroke
 						(width 0)
 						(type default)
@@ -549,8 +514,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -7.366)
-					(end 9.144 -7.874)
+					(start 10.16 -4.826)
+					(end 9.144 -5.334)
 					(stroke
 						(width 0)
 						(type default)
@@ -560,8 +525,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -9.906)
-					(end 9.144 -10.414)
+					(start 10.16 -12.446)
+					(end 9.144 -12.954)
 					(stroke
 						(width 0)
 						(type default)
@@ -581,66 +546,11 @@
 						(type none)
 					)
 				)
-				(rectangle
-					(start 10.16 -17.526)
-					(end 9.144 -18.034)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -22.606)
-					(end 9.144 -23.114)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -25.146)
-					(end 9.144 -25.654)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -30.226)
-					(end 9.144 -30.734)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -32.766)
-					(end 9.144 -33.274)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 			)
-			(symbol "USB_C_Receptacle_0_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_1"
 				(rectangle
-					(start -10.16 27.94)
-					(end 10.16 -35.56)
+					(start -10.16 17.78)
+					(end 10.16 -17.78)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -756,8 +666,6 @@
 						(type none)
 					)
 				)
-			)
-			(symbol "USB_C_Receptacle_1_1"
 				(circle
 					(center -2.54 1.143)
 					(radius 0.635)
@@ -839,8 +747,10 @@
 						(type outline)
 					)
 				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_16P_1_1"
 				(pin passive line
-					(at 0 -40.64 90)
+					(at 2.54 -22.86 90)
 					(length 5.08)
 					(name "GND"
 						(effects
@@ -857,44 +767,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 15.24 -10.16 180)
-					(length 5.08)
-					(name "TX1+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -7.62 180)
-					(length 5.08)
-					(name "TX1-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
-					(at 15.24 25.4 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(name "VBUS"
 						(effects
@@ -912,7 +786,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 20.32 180)
+					(at 15.24 10.16 180)
 					(length 5.08)
 					(name "CC1"
 						(effects
@@ -930,7 +804,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 7.62 180)
+					(at 15.24 2.54 180)
 					(length 5.08)
 					(name "D+"
 						(effects
@@ -948,7 +822,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 12.7 180)
+					(at 15.24 -2.54 180)
 					(length 5.08)
 					(name "D-"
 						(effects
@@ -966,7 +840,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 -30.48 180)
+					(at 15.24 -12.7 180)
 					(length 5.08)
 					(name "SBU1"
 						(effects
@@ -984,7 +858,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 25.4 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(hide yes)
 					(name "VBUS"
@@ -1002,44 +876,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 15.24 -15.24 180)
-					(length 5.08)
-					(name "RX2-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -17.78 180)
-					(length 5.08)
-					(name "RX2+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
-					(at 0 -40.64 90)
+					(at 2.54 -22.86 90)
 					(length 5.08)
 					(hide yes)
 					(name "GND"
@@ -1058,7 +896,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -40.64 90)
+					(at 2.54 -22.86 90)
 					(length 5.08)
 					(hide yes)
 					(name "GND"
@@ -1076,44 +914,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 15.24 -25.4 180)
-					(length 5.08)
-					(name "TX2+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -22.86 180)
-					(length 5.08)
-					(name "TX2-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
-					(at 15.24 25.4 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(hide yes)
 					(name "VBUS"
@@ -1132,7 +934,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 17.78 180)
+					(at 15.24 7.62 180)
 					(length 5.08)
 					(name "CC2"
 						(effects
@@ -1150,7 +952,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 5.08 180)
+					(at 15.24 0 180)
 					(length 5.08)
 					(name "D+"
 						(effects
@@ -1168,7 +970,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 10.16 180)
+					(at 15.24 -5.08 180)
 					(length 5.08)
 					(name "D-"
 						(effects
@@ -1186,7 +988,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 -33.02 180)
+					(at 15.24 -15.24 180)
 					(length 5.08)
 					(name "SBU2"
 						(effects
@@ -1204,7 +1006,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 25.4 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(hide yes)
 					(name "VBUS"
@@ -1222,44 +1024,8 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "RX1-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "RX1+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
-					(at 0 -40.64 90)
+					(at 2.54 -22.86 90)
 					(length 5.08)
 					(hide yes)
 					(name "GND"
@@ -1278,7 +1044,7 @@
 					)
 				)
 				(pin passive line
-					(at -7.62 -40.64 90)
+					(at -2.54 -22.86 90)
 					(length 5.08)
 					(name "SHIELD"
 						(effects
@@ -1287,7 +1053,7 @@
 							)
 						)
 					)
-					(number "S1"
+					(number "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2325,7 +2091,7 @@
 	)
 	(text "Reverse-protection \nDiodes"
 		(exclude_from_sim no)
-		(at 134.366 30.48 0)
+		(at 140.716 40.894 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -2373,7 +2139,7 @@
 	)
 	(text "Female USB-C"
 		(exclude_from_sim no)
-		(at 203.962 72.898 90)
+		(at 205.74 69.342 90)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -2384,22 +2150,28 @@
 		(uuid "f60d47c3-b286-4a10-ae8d-862f180e0186")
 	)
 	(junction
-		(at 166.37 40.64)
+		(at 166.37 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0438e771-c975-4d51-95b2-cfb13a5066dd")
 	)
 	(junction
-		(at 156.21 27.94)
+		(at 168.91 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16eed845-7313-4385-a60c-06b2ef6c2add")
+	)
+	(junction
+		(at 161.29 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26edf48b-8dbc-4d61-aee8-663250b42bf2")
 	)
 	(junction
-		(at 186.69 107.95)
+		(at 186.69 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "578a62ff-8913-4263-958b-3922797249ca")
+		(uuid "6353552e-a4da-4e67-8600-ad0564fa1713")
 	)
 	(junction
 		(at 186.69 144.78)
@@ -2426,7 +2198,7 @@
 		(uuid "ac81aeae-0823-4d0a-8f5c-07d14f3f4d4a")
 	)
 	(junction
-		(at 138.43 60.96)
+		(at 138.43 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3b21877-b27b-4c29-8e5d-3fda681bd6f3")
@@ -2438,62 +2210,34 @@
 		(uuid "e2d2a9f5-7675-4695-a5d4-19f808373166")
 	)
 	(junction
-		(at 168.91 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4cbeaa4-9515-49f4-89ab-8e7b36a47d47")
-	)
-	(junction
-		(at 168.91 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eaf0026e-a5ce-4c81-b394-0e57a5381b07")
-	)
-	(junction
-		(at 158.75 128.27)
+		(at 161.29 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec06ef5b-78cb-48cd-9e4f-eba5563e0dc5")
 	)
-	(no_connect
-		(at 171.45 76.2)
-		(uuid "13e80101-cd5d-4d4e-9306-7cb36354a416")
-	)
-	(no_connect
-		(at 171.45 96.52)
-		(uuid "524db0d0-b737-49b4-b580-aebb4a3bf918")
+	(junction
+		(at 168.91 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd457c01-ca28-414b-a454-cb73f9a5e616")
 	)
 	(no_connect
 		(at 171.45 81.28)
-		(uuid "59c8b37e-d43d-4d05-8202-eb885478100f")
-	)
-	(no_connect
-		(at 171.45 99.06)
-		(uuid "60e4632c-aec6-4393-9480-33cff3b3d200")
-	)
-	(no_connect
-		(at 171.45 88.9)
-		(uuid "993008d2-58be-4248-84ec-8ae0848002f4")
+		(uuid "496e1fef-f9bc-4061-9c25-81576eda1c90")
 	)
 	(no_connect
 		(at 171.45 83.82)
-		(uuid "b473a852-7d1f-4d8f-b279-f2106f284bf5")
+		(uuid "70fcfa32-cef7-4935-ac80-60c68e41cb4a")
 	)
-	(no_connect
-		(at 171.45 68.58)
-		(uuid "c2b94066-5b8c-420c-ae96-a48c7713a61c")
-	)
-	(no_connect
-		(at 171.45 66.04)
-		(uuid "c5297522-58d7-471d-a86f-04d2a4049faf")
-	)
-	(no_connect
-		(at 171.45 73.66)
-		(uuid "dd5772ac-726e-42eb-af2c-dc4528a69dc8")
-	)
-	(no_connect
-		(at 171.45 91.44)
-		(uuid "f3e1418b-6daf-4c95-80f1-51673793585b")
+	(wire
+		(pts
+			(xy 189.23 91.44) (xy 189.23 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01ad4265-67c5-4edc-b08b-943c992aa266")
 	)
 	(wire
 		(pts
@@ -2527,7 +2271,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 48.26) (xy 171.45 48.26)
+			(xy 142.24 60.96) (xy 171.45 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2537,17 +2281,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 83.82) (xy 151.13 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1653f397-6d04-4432-a26b-0268e73b13ce")
-	)
-	(wire
-		(pts
-			(xy 179.07 128.27) (xy 158.75 128.27)
+			(xy 161.29 128.27) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2557,13 +2291,23 @@
 	)
 	(wire
 		(pts
-			(xy 127 139.7) (xy 158.75 139.7)
+			(xy 127 139.7) (xy 161.29 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "197f33cc-05f8-40d1-bbd4-1923c272f852")
+	)
+	(wire
+		(pts
+			(xy 184.15 91.44) (xy 184.15 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a74935d-a710-4054-aca4-69faa46847b2")
 	)
 	(wire
 		(pts
@@ -2577,7 +2321,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 45.72) (xy 171.45 45.72)
+			(xy 134.62 58.42) (xy 171.45 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2607,6 +2351,26 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 71.12) (xy 168.91 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27254c26-49f8-495d-ba77-464549c74b62")
+	)
+	(wire
+		(pts
+			(xy 168.91 67.31) (xy 168.91 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2809eaa3-19f1-4fd7-99dc-dc2ef1d0b40d")
+	)
+	(wire
+		(pts
 			(xy 179.07 133.35) (xy 153.67 133.35)
 		)
 		(stroke
@@ -2617,7 +2381,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 36.83) (xy 166.37 40.64)
+			(xy 166.37 36.83) (xy 166.37 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2627,13 +2391,33 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 128.27) (xy 158.75 139.7)
+			(xy 161.29 128.27) (xy 161.29 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2f0d06be-3c33-454f-a7d1-30f65201f950")
+	)
+	(wire
+		(pts
+			(xy 151.13 83.82) (xy 151.13 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3188485d-5363-4fd0-a210-e65900d09a07")
+	)
+	(wire
+		(pts
+			(xy 186.69 92.71) (xy 186.69 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31dd5f60-33bc-439e-940f-6055f9047a6e")
 	)
 	(wire
 		(pts
@@ -2657,23 +2441,13 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 40.64) (xy 158.75 128.27)
+			(xy 161.29 36.83) (xy 161.29 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3ba1e519-f91c-407c-8761-59b2d04a1710")
-	)
-	(wire
-		(pts
-			(xy 151.13 59.69) (xy 168.91 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d16f9fa-39c4-4e95-a3a6-8d285fa1e5dd")
 	)
 	(wire
 		(pts
@@ -2687,17 +2461,27 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 106.68) (xy 194.31 107.95)
+			(xy 184.15 92.71) (xy 186.69 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4832f38e-b931-4d79-96fb-2031f29e52cd")
+		(uuid "407ad2c8-0937-4167-a5b7-e308ff1fccda")
 	)
 	(wire
 		(pts
-			(xy 138.43 60.96) (xy 138.43 62.23)
+			(xy 153.67 86.36) (xy 153.67 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40900255-7696-4c62-9111-8b250f86e917")
+	)
+	(wire
+		(pts
+			(xy 138.43 73.66) (xy 138.43 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2707,33 +2491,23 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 54.61) (xy 168.91 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "506f2d02-6fa9-4b75-b832-8a3b2bfb4450")
-	)
-	(wire
-		(pts
-			(xy 151.13 135.89) (xy 151.13 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51c4afaa-0f7e-4505-a395-1766c4c78754")
-	)
-	(wire
-		(pts
-			(xy 168.91 53.34) (xy 168.91 54.61)
+			(xy 168.91 66.04) (xy 168.91 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "537070dd-3464-47b5-ab39-6cadd8ac5d64")
+	)
+	(wire
+		(pts
+			(xy 113.03 83.82) (xy 151.13 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56c00b17-820d-47cf-a2fe-623b488fd0cb")
 	)
 	(wire
 		(pts
@@ -2747,7 +2521,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 55.88) (xy 171.45 55.88)
+			(xy 168.91 68.58) (xy 171.45 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2774,16 +2548,6 @@
 			(type default)
 		)
 		(uuid "6efa743c-33ef-4eb2-800e-146a6be838cd")
-	)
-	(wire
-		(pts
-			(xy 158.75 40.64) (xy 156.21 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "780b46ef-1d53-484e-87d9-cce19067de90")
 	)
 	(wire
 		(pts
@@ -2817,7 +2581,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 45.72) (xy 134.62 50.8)
+			(xy 134.62 58.42) (xy 134.62 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2827,23 +2591,13 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 58.42) (xy 142.24 60.96)
+			(xy 142.24 71.12) (xy 142.24 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7facbc42-b34a-49ce-85f3-69c6c457faa2")
-	)
-	(wire
-		(pts
-			(xy 186.69 107.95) (xy 186.69 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80350462-30d4-42a6-804e-8e88eec4898c")
 	)
 	(wire
 		(pts
@@ -2857,7 +2611,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 27.94) (xy 156.21 29.21)
+			(xy 161.29 27.94) (xy 161.29 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2877,17 +2631,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 106.68) (xy 186.69 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8de398dc-bef9-4189-9f8b-4bf8c0dde86d")
-	)
-	(wire
-		(pts
-			(xy 151.13 83.82) (xy 151.13 59.69)
+			(xy 151.13 93.98) (xy 151.13 135.89)
 		)
 		(stroke
 			(width 0)
@@ -2897,7 +2641,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 40.64) (xy 171.45 40.64)
+			(xy 166.37 53.34) (xy 171.45 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2907,7 +2651,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 40.64) (xy 166.37 142.24)
+			(xy 166.37 53.34) (xy 166.37 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2927,16 +2671,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 40.64) (xy 156.21 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97da500e-21f5-4d03-87bc-d4e7013b1182")
-	)
-	(wire
-		(pts
 			(xy 156.21 27.94) (xy 166.37 27.94)
 		)
 		(stroke
@@ -2947,7 +2681,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 60.96) (xy 138.43 60.96)
+			(xy 142.24 73.66) (xy 138.43 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2957,7 +2691,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 60.96) (xy 171.45 60.96)
+			(xy 168.91 73.66) (xy 171.45 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2967,7 +2701,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 58.42) (xy 168.91 58.42)
+			(xy 171.45 71.12) (xy 168.91 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2987,13 +2721,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 58.42) (xy 168.91 59.69)
+			(xy 168.91 72.39) (xy 168.91 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b4dcf495-54fe-425e-9029-ae6f1825344e")
+		(uuid "b4122524-95e8-4918-836a-6ad50d38082f")
 	)
 	(wire
 		(pts
@@ -3067,7 +2801,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 58.42) (xy 134.62 60.96)
+			(xy 134.62 71.12) (xy 134.62 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3087,23 +2821,13 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 53.34) (xy 168.91 53.34)
+			(xy 171.45 66.04) (xy 168.91 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cefa9280-ae8b-402f-884a-451c84c387ab")
-	)
-	(wire
-		(pts
-			(xy 168.91 59.69) (xy 168.91 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d078e587-d923-4d2b-8f36-4b21906e6702")
 	)
 	(wire
 		(pts
@@ -3117,17 +2841,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 54.61) (xy 168.91 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d730645c-bd1c-4a08-8a54-8a41cacf14f8")
-	)
-	(wire
-		(pts
-			(xy 138.43 60.96) (xy 134.62 60.96)
+			(xy 138.43 73.66) (xy 134.62 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3137,23 +2851,33 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 107.95) (xy 186.69 107.95)
+			(xy 186.69 92.71) (xy 189.23 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dab889e2-818c-4a0b-b78b-b0e643490954")
+		(uuid "e198288f-4fa3-4c29-8b6a-56b84db9df76")
 	)
 	(wire
 		(pts
-			(xy 142.24 50.8) (xy 142.24 48.26)
+			(xy 142.24 63.5) (xy 142.24 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e4ebfb48-00e4-4403-a7d1-92426795e535")
+	)
+	(wire
+		(pts
+			(xy 153.67 72.39) (xy 168.91 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7aff2fd-25c6-40f2-bfea-f0a5a5251f06")
 	)
 	(wire
 		(pts
@@ -3187,6 +2911,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 67.31) (xy 168.91 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f042f874-c9eb-47f2-a406-5985a2fc8384")
+	)
+	(wire
+		(pts
 			(xy 90.17 101.6) (xy 87.63 101.6)
 		)
 		(stroke
@@ -3204,16 +2938,6 @@
 			(type default)
 		)
 		(uuid "f39c6de5-0f6c-469f-9c9d-9c7849dca249")
-	)
-	(wire
-		(pts
-			(xy 153.67 86.36) (xy 153.67 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f40127f5-af2d-43b2-b248-29abe448397d")
 	)
 	(wire
 		(pts
@@ -3236,7 +2960,7 @@
 		(uuid "22aef582-ca91-4324-a46a-42f53f26e408")
 	)
 	(label "USB-C_CC2"
-		(at 144.78 48.26 0)
+		(at 144.78 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3286,7 +3010,7 @@
 		(uuid "83f105d5-cfd1-4ea1-9a57-9db045a370e0")
 	)
 	(label "+VBUS_USB-A"
-		(at 158.75 97.79 90)
+		(at 161.29 97.79 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3296,7 +3020,7 @@
 		(uuid "8ab1a501-20b7-447d-94c8-5ac5fd575d4d")
 	)
 	(label "USB-C_CC1"
-		(at 144.78 45.72 0)
+		(at 144.78 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3416,7 +3140,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -3427,7 +3151,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -3461,6 +3185,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -3560,189 +3317,6 @@
 			(project "MP3_Player"
 				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
 					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_C_Receptacle")
-		(at 186.69 66.04 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a7cecf0-6634-4547-8f7e-efabfee3d5b8")
-		(property "Reference" "J2"
-			(at 186.69 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB_C_Receptacle"
-			(at 186.69 35.56 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 182.88 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "USB Full-Featured Type-C Receptacle connector"
-			(at 186.69 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfr. Part Number" ""
-			(at 186.69 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Store URL - Other" ""
-			(at 186.69 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Store URL - TME" ""
-			(at 186.69 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A9"
-			(uuid "798561a0-5c4e-4932-8882-eb490878bae5")
-		)
-		(pin "A5"
-			(uuid "4b0b2d6b-0720-4c45-88ed-50d456d40c37")
-		)
-		(pin "B1"
-			(uuid "98decb88-5171-4ffa-af0b-b96af3c6d3be")
-		)
-		(pin "A4"
-			(uuid "0f055d72-e51b-4852-936d-74049335d4fd")
-		)
-		(pin "B4"
-			(uuid "bf37f864-bcf8-47e0-82e1-f386b0f3f64b")
-		)
-		(pin "A1"
-			(uuid "1f8c2474-3f4d-46bd-8d08-58e46fe2edf0")
-		)
-		(pin "A12"
-			(uuid "7cdcf40d-36d0-40d6-9088-cd8861410406")
-		)
-		(pin "S1"
-			(uuid "fbafebb3-4907-4f94-9a07-6bd4a542e30c")
-		)
-		(pin "B12"
-			(uuid "f504efe4-15cd-45f6-a3dd-a074b208d6da")
-		)
-		(pin "B9"
-			(uuid "b8d8f0ff-5767-4eb9-ab99-d3a11d9a77c4")
-		)
-		(pin "B5"
-			(uuid "24cc0451-6637-45da-8a2b-081903a5ddc4")
-		)
-		(pin "A7"
-			(uuid "f3c44d6a-1a68-4549-936f-db290ddbcec2")
-		)
-		(pin "A6"
-			(uuid "cc6809b1-1ff6-463a-98d5-6b0c03305487")
-		)
-		(pin "B6"
-			(uuid "9c9ecade-7e12-49c4-a738-2a7ef2630065")
-		)
-		(pin "B7"
-			(uuid "00ea8bf2-d4e5-4275-bf59-d2aeb54e6da7")
-		)
-		(pin "B10"
-			(uuid "bf648b00-a485-4cbe-ba61-f6d70827d111")
-		)
-		(pin "A10"
-			(uuid "3f4e45c5-df26-417d-ab1f-fe42d20596d0")
-		)
-		(pin "A2"
-			(uuid "a5724df4-573f-441d-b22e-6b34e52253ad")
-		)
-		(pin "A3"
-			(uuid "2f3d4181-ae00-402d-a92a-4b0749488a01")
-		)
-		(pin "A11"
-			(uuid "77aa98bb-7de7-44db-a0fc-1b2e33ffc4c1")
-		)
-		(pin "B2"
-			(uuid "608da2a1-15c2-4554-9a7f-5764e5382a54")
-		)
-		(pin "A8"
-			(uuid "f98df759-bd03-4aef-b99f-ef67154fbdeb")
-		)
-		(pin "B3"
-			(uuid "061efb13-8548-498d-8bb1-a14097f36710")
-		)
-		(pin "B11"
-			(uuid "2203cbf2-59e7-4728-bfee-c957460c7994")
-		)
-		(pin "B8"
-			(uuid "7c70c0bb-f0dd-4478-b97c-955182203ea2")
-		)
-		(instances
-			(project "MP3_Player"
-				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -3965,7 +3539,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -3976,7 +3550,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4010,6 +3584,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 127 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040215K0FKED"
+			(at 127 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040215K0FKED/1178139"
+			(at 127 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040215K0FKED?qs=QPqDnsKvzKcgNzJF1YM3gA%3D%3D"
 			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4116,7 +3723,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 156.21 33.02 270)
+		(at 161.29 33.02 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4124,32 +3731,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5a6f65cd-3b38-48a8-aca0-0faabbacfe4d")
 		(property "Reference" "D1"
-			(at 158.75 31.7499 90)
+			(at 159.512 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "SL22"
-			(at 158.75 34.2899 90)
+			(at 159.512 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 33.02 0)
+			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4160,7 +3766,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88741/sl22.pdf"
-			(at 156.21 33.02 0)
+			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4171,7 +3777,7 @@
 			)
 		)
 		(property "Description" "Diode DO-214AA (SMB)"
-			(at 156.21 33.02 0)
+			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4182,7 +3788,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 156.21 33.02 0)
+			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4193,7 +3799,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 156.21 33.02 0)
+			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4204,7 +3810,7 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
-			(at 156.21 33.02 90)
+			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4215,7 +3821,7 @@
 			)
 		)
 		(property "Store URL - Other" ""
-			(at 156.21 33.02 90)
+			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4226,7 +3832,7 @@
 			)
 		)
 		(property "Store URL - TME" ""
-			(at 156.21 33.02 90)
+			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4237,7 +3843,7 @@
 			)
 		)
 		(property "Mfr. Part #" "SL22-E3/5BT"
-			(at 156.21 33.02 90)
+			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4248,7 +3854,7 @@
 			)
 		)
 		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-general-semiconductor-diodes-division/SL22-E3-5BT/2146301"
-			(at 156.21 33.02 90)
+			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4259,7 +3865,7 @@
 			)
 		)
 		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay-Semiconductors/SL22-E3-5BT?qs=nmw3K3MsCZYHekq5zo30%252Bg%3D%3D"
-			(at 156.21 33.02 90)
+			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4408,7 +4014,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 166.37 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4419,7 +4025,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 166.37 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4463,6 +4069,39 @@
 				)
 			)
 		)
+		(property "Mfr. Part #" "CRCW040215K0FKED"
+			(at 166.37 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040215K0FKED/1178139"
+			(at 166.37 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040215K0FKED?qs=QPqDnsKvzKcgNzJF1YM3gA%3D%3D"
+			(at 166.37 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8d6ab03-8ff2-402e-a6ed-2ba061d110f4")
 		)
@@ -4488,10 +4127,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "67826ba6-9c14-49bd-b3b9-a0a297f648b6")
 		(property "Reference" "D2"
-			(at 168.91 31.7499 90)
+			(at 168.148 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4502,7 +4140,7 @@
 			)
 		)
 		(property "Value" "SL22"
-			(at 168.91 34.2899 90)
+			(at 168.148 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4693,7 +4331,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 90.17 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4704,7 +4342,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 90.17 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4727,6 +4365,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 90.17 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 90.17 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4954,6 +4625,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
+		(at 186.69 68.58 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "87776c07-ec2f-432a-8028-1686c1dc4181")
+		(property "Reference" "J2"
+			(at 186.69 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_16P"
+			(at 186.69 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://pt.mouser.com/datasheet/3/6118/1/uj20_c_h_c_4_smt_tr.pdf"
+			(at 182.88 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 186.69 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "UJ20-C-H-C-4-SMT-TR"
+			(at 186.69 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-C-4-SMT-TR/24766784?s=N4IgTCBcDaIKoCkwAYC0BhVAJDqAsqAygLIAqqpASiALoC%2BQA"
+			(at 186.69 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Same-Sky/UJ20-C-H-C-4-SMT-TR?qs=i8QVZAFTkqTaeFkL507bBA%3D%3D"
+			(at 186.69 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "A1"
+			(uuid "c3dab33b-7e14-4a99-a33c-ce3a3ec48758")
+		)
+		(pin "SH"
+			(uuid "d6f3647d-2a89-4439-919b-cb09a2b0d837")
+		)
+		(pin "A5"
+			(uuid "beb543f1-1d27-402d-a3d3-a51747838ca5")
+		)
+		(pin "A6"
+			(uuid "8d87755e-e02b-4f1c-84ca-52e605f8d3d1")
+		)
+		(pin "A7"
+			(uuid "b6716276-9440-42eb-8bae-1f97bcd6ce34")
+		)
+		(pin "A8"
+			(uuid "487fab24-068f-4649-93a8-cb0dae1f9102")
+		)
+		(pin "A9"
+			(uuid "b854bc0f-62c5-4367-8d65-c1624a8dca88")
+		)
+		(pin "A12"
+			(uuid "eaf60990-258b-4cf7-8072-c4bad19c6a04")
+		)
+		(pin "B1"
+			(uuid "5bb4a128-0cfd-4aec-bff6-383cc00b50d7")
+		)
+		(pin "B4"
+			(uuid "fb367246-aba6-4cdc-8dca-c3ca998d7426")
+		)
+		(pin "B5"
+			(uuid "93cc0c6e-460a-46dc-904d-b344359a8590")
+		)
+		(pin "B6"
+			(uuid "3c6b0522-d95b-4373-a6a2-e091837b92a2")
+		)
+		(pin "B7"
+			(uuid "6f168f1b-0eff-41fe-a84a-1ec04ab86273")
+		)
+		(pin "B8"
+			(uuid "bbee17e6-d2e0-4180-8fba-0ed7853c1e0f")
+		)
+		(pin "B9"
+			(uuid "11fc725b-122b-4a0c-9a01-9dc30a41e568")
+		)
+		(pin "B12"
+			(uuid "14a29ee8-c0b7-4f3d-a3c6-fb45b0eedbaa")
+		)
+		(pin "A4"
+			(uuid "13d44417-d1fb-4240-8033-cd313da23a63")
+		)
+		(instances
+			(project "MP3_Player"
+				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 166.37 163.83 0)
 		(mirror y)
@@ -5115,7 +4944,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 134.62 54.61 0)
+		(at 134.62 67.31 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5127,7 +4956,7 @@
 		(fields_autoplaced yes)
 		(uuid "afcbc9b4-f492-4f9e-90a1-2bfa7e3d0c8f")
 		(property "Reference" "R3"
-			(at 132.08 53.3399 0)
+			(at 132.08 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5138,7 +4967,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 132.08 55.8799 0)
+			(at 132.08 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5149,7 +4978,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 136.398 54.61 90)
+			(at 136.398 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5159,8 +4988,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 134.62 54.61 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 134.62 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5170,8 +4999,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 134.62 54.61 0)
+		(property "Description" "0402"
+			(at 134.62 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5182,7 +5011,7 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
-			(at 134.62 54.61 0)
+			(at 134.62 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5193,7 +5022,7 @@
 			)
 		)
 		(property "Store URL - Other" ""
-			(at 134.62 54.61 0)
+			(at 134.62 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5204,7 +5033,40 @@
 			)
 		)
 		(property "Store URL - TME" ""
-			(at 134.62 54.61 0)
+			(at 134.62 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW04025K10FKED"
+			(at 134.62 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW04025K10FKED/1178087"
+			(at 134.62 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW04025K10FKED?qs=s0g2FHNyNFj8r6Uw5EJZ%2Fw%3D%3D"
+			(at 134.62 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5231,7 +5093,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 142.24 54.61 0)
+		(at 142.24 67.31 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5242,7 +5104,7 @@
 		(dnp no)
 		(uuid "b00c87a5-eafc-4571-9970-e32ab3e25d45")
 		(property "Reference" "R2"
-			(at 140.462 53.34 0)
+			(at 140.462 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5253,7 +5115,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 140.462 55.88 0)
+			(at 140.462 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5264,7 +5126,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.018 54.61 90)
+			(at 144.018 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5274,8 +5136,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 142.24 54.61 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 142.24 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5285,8 +5147,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 142.24 54.61 0)
+		(property "Description" "0402"
+			(at 142.24 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5297,7 +5159,7 @@
 			)
 		)
 		(property "Mfr. Part Number" ""
-			(at 142.24 54.61 0)
+			(at 142.24 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5308,7 +5170,7 @@
 			)
 		)
 		(property "Store URL - Other" ""
-			(at 142.24 54.61 0)
+			(at 142.24 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5319,7 +5181,40 @@
 			)
 		)
 		(property "Store URL - TME" ""
-			(at 142.24 54.61 0)
+			(at 142.24 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW04025K10FKED"
+			(at 142.24 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW04025K10FKED/1178087"
+			(at 142.24 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW04025K10FKED?qs=s0g2FHNyNFj8r6Uw5EJZ%2Fw%3D%3D"
+			(at 142.24 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5494,7 +5389,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 186.69 109.22 0)
+		(at 186.69 93.98 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5506,7 +5401,7 @@
 		(fields_autoplaced yes)
 		(uuid "bff43a25-ae12-4c7b-afab-28f6174aa6f8")
 		(property "Reference" "#PWR013"
-			(at 186.69 115.57 0)
+			(at 186.69 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5517,7 +5412,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 186.69 114.3 0)
+			(at 186.69 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5528,7 +5423,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 109.22 0)
+			(at 186.69 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5539,7 +5434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 109.22 0)
+			(at 186.69 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5550,7 +5445,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 186.69 109.22 0)
+			(at 186.69 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5617,7 +5512,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 166.37 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5628,7 +5523,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 166.37 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5662,6 +5557,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 166.37 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 166.37 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 166.37 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 166.37 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5848,7 +5776,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 138.43 62.23 0)
+		(at 138.43 74.93 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5860,7 +5788,7 @@
 		(fields_autoplaced yes)
 		(uuid "fffc8db6-0a99-463c-b9e9-a14fe0fe0d3f")
 		(property "Reference" "#PWR014"
-			(at 138.43 68.58 0)
+			(at 138.43 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5871,7 +5799,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 138.43 67.31 0)
+			(at 138.43 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5882,7 +5810,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.43 62.23 0)
+			(at 138.43 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5893,7 +5821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 62.23 0)
+			(at 138.43 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5904,7 +5832,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 138.43 62.23 0)
+			(at 138.43 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

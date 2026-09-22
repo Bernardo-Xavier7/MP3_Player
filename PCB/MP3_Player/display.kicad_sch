@@ -1804,7 +1804,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.panelook.com/TST09602A-0-96inch-IPS-TFT-LCD-screen-80-160-350cd-m-sup2-13PINS-SPI-ST7735S-Wearable-LCD-detail_134063.html"
 			(at 77.47 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -1815,7 +1815,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.96 inch IPS TFT LCD screen 80x160 350cd/m² 13PINS SPI ST7735S"
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -1838,6 +1838,17 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 77.47 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "TST09602A"
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -2059,7 +2070,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.irisoconnectors.com/system/cms/assets/uploads/files/spec-sheets/product/original/is-9640a-1.pdf?1543584151"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2070,7 +2081,7 @@
 				)
 			)
 		)
-		(property "Description" "0.96 inch IPS TFT LCD screen 80x160 350cd/m² 13PINS SPI ST7735S"
+		(property "Description" "13 Pin 0.4mm Pitch"
 			(at 156.464 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -2104,6 +2115,28 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 154.94 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "IMSA-9640S-13Y900"
+			(at 154.94 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/iriso/IMSA-9640S-13Y900/26774114"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2533,7 +2566,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 114.3 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2544,7 +2577,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 114.3 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2578,6 +2611,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 114.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 114.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 114.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 114.3 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2794,7 +2860,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" ""
 			(at 128.27 98.425 0)
 			(hide yes)
 			(show_name no)
@@ -2819,7 +2885,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"
+		(property "Description" "0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, SOT-23"
 			(at 123.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2897,6 +2963,17 @@
 			)
 		)
 		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/guangdong-inmark-electronics-co-ltd/S8050/28538968"
+			(at 123.19 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Comchip-Technology/SS8050-G?qs=LLUE9lz1YbcHg%252BWLMAtcrQ%3D%3D"
 			(at 123.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3047,7 +3124,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 102.87 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3058,7 +3135,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 102.87 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3092,6 +3169,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 102.87 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW04021K00FKED"
+			(at 102.87 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW04021K00FKED/1178007"
+			(at 102.87 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW04021K00FKED?qs=YX%252BK5oaHNYqQ2WK%252BIAW12A%3D%3D"
 			(at 102.87 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -3160,7 +3270,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 133.35 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3171,7 +3281,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0603"
 			(at 133.35 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3205,6 +3315,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 133.35 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW060310R0FKEA"
+			(at 133.35 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW060310R0FKEA/1174440"
+			(at 133.35 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW060310R0FKEA?qs=wiO5jjUX9wsETsRLGnHNyA%3D%3D"
 			(at 133.35 87.63 90)
 			(hide yes)
 			(show_name no)

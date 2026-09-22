@@ -1545,7 +1545,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 127 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1556,7 +1556,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 127 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1579,6 +1579,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 127 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 127 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 127 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 127 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1649,7 +1682,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 182.88 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1660,7 +1693,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 182.88 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1683,6 +1716,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 182.88 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 182.88 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 182.88 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 182.88 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -1923,7 +1989,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 175.26 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1934,7 +2000,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 175.26 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1957,6 +2023,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 175.26 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 175.26 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 175.26 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 175.26 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -2027,7 +2126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/693072010801.pdf"
+		(property "Datasheet" ""
 			(at 153.67 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -2560,7 +2659,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 119.38 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2571,7 +2670,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 119.38 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2594,6 +2693,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 119.38 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 119.38 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 119.38 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 119.38 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2743,7 +2875,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 190.5 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2754,7 +2886,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 190.5 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2777,6 +2909,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 190.5 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 190.5 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 190.5 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 190.5 105.41 90)
 			(hide yes)
 			(show_name no)

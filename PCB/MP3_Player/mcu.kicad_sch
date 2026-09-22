@@ -9288,7 +9288,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0018_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707191428"
 			(at 200.66 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9299,7 +9299,7 @@
 				)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "0402"
 			(at 200.66 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9355,6 +9355,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 200.66 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "BLM15AG601SN1D"
+			(at 200.66 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/murata-electronics/BLM15AG601SN1D/584217"
+			(at 200.66 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Murata-Electronics/BLM15AG601SN1D?qs=%2FjCH2pcB5WLSIF5DG9Nbqw%3D%3D"
 			(at 200.66 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -10801,7 +10834,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 64.77 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -10812,7 +10845,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 64.77 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -10868,6 +10901,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 64.77 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 64.77 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 64.77 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 64.77 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -11038,7 +11104,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 58.42 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11049,7 +11115,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 58.42 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11083,6 +11149,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 58.42 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW04024K70FKED"
+			(at 58.42 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW04024K70FKED/1178083"
+			(at 58.42 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW04024K70FKED?qs=Jz%252BxJjKhzTxI08uguE%252B9mA%3D%3D"
 			(at 58.42 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11961,7 +12060,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 50.8 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11972,7 +12071,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 50.8 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -12006,6 +12105,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 50.8 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW04024K70FKED"
+			(at 50.8 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW04024K70FKED/1178083"
+			(at 50.8 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW04024K70FKED?qs=Jz%252BxJjKhzTxI08uguE%252B9mA%3D%3D"
 			(at 50.8 153.67 0)
 			(hide yes)
 			(show_name no)

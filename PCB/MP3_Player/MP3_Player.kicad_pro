@@ -651,14 +651,14 @@
         },
         {
           "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
+          "label": "Description",
+          "name": "Description",
           "show": true
         },
         {
           "group_by": false,
-          "label": "Description",
-          "name": "Description",
+          "label": "Datasheet",
+          "name": "Datasheet",
           "show": true
         },
         {
@@ -876,7 +876,7 @@
         "uuid": "5963f475-7f70-4482-9734-331d34890960"
       }
     ],
-    "used_designators": "#FLG1,DRA1,U8,C32-34,C37-52,MK1-2,Y3,FB2,#PWR21,#PWR48,#PWR56-75,TP1-11,JP1-3,R8,R17-25,J6-10",
+    "used_designators": "#FLG1,DRA1,U8,C32-34,C37-52,MK1-2,Y3,FB2,#PWR21,#PWR48,#PWR56-75,TP1-11,JP1-3,R8,R17-25,J4,J6-10",
     "variants": []
   },
   "sheets": [

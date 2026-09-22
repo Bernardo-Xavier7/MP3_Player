@@ -446,6 +446,42 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Right"
+		(exclude_from_sim no)
+		(at 219.202 95.504 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "0e14978b-39cd-4b33-822d-141c5b20ef41")
+	)
+	(text "Down"
+		(exclude_from_sim no)
+		(at 190.5 115.57 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "13940c19-d94c-4190-ae08-2497914f0c61")
+	)
+	(text "UP"
+		(exclude_from_sim no)
+		(at 191.516 74.93 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "39fa96f2-1b6e-4208-bb3c-f8697b8a5d2c")
+	)
 	(text "Menu Buttons"
 		(exclude_from_sim no)
 		(at 191.516 56.642 0)
@@ -457,6 +493,54 @@
 			)
 		)
 		(uuid "78a987cd-2bc7-472e-9666-033e059393f0")
+	)
+	(text "OK"
+		(exclude_from_sim no)
+		(at 191.516 95.504 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "7d80aa99-69be-4369-9249-82cdecf07b4c")
+	)
+	(text "Left"
+		(exclude_from_sim no)
+		(at 161.29 95.504 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "9b5f85c1-3042-496d-9afb-adaa6418cdce")
+	)
+	(text "V-"
+		(exclude_from_sim no)
+		(at 89.916 77.724 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "b2c8a808-bfb6-48ec-b1b7-3568baba38ed")
+	)
+	(text "V-"
+		(exclude_from_sim no)
+		(at 60.198 77.47 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "cdd059db-f995-4c3c-9803-e4fba64f1e94")
 	)
 	(text "Volume Buttons"
 		(exclude_from_sim no)
@@ -1667,7 +1751,7 @@
 				)
 			)
 		)
-		(property "Value" "Down"
+		(property "Value" "Push Button"
 			(at 191.77 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1688,7 +1772,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 191.77 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1733,6 +1817,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 191.77 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 191.77 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 191.77 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1928,7 +2045,7 @@
 				)
 			)
 		)
-		(property "Value" "Left"
+		(property "Value" "Push Button"
 			(at 162.56 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1949,7 +2066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -1994,6 +2111,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 162.56 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 162.56 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 162.56 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2041,7 +2191,7 @@
 				)
 			)
 		)
-		(property "Value" "Right"
+		(property "Value" "Push Button"
 			(at 220.98 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2062,7 +2212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 220.98 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2107,6 +2257,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 220.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 220.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 220.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2302,7 +2485,7 @@
 				)
 			)
 		)
-		(property "Value" "Up"
+		(property "Value" "Push Button"
 			(at 191.77 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2323,7 +2506,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2368,6 +2551,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 191.77 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 191.77 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 191.77 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2415,7 +2631,7 @@
 				)
 			)
 		)
-		(property "Value" "Volume -"
+		(property "Value" "Push Button"
 			(at 60.96 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2436,7 +2652,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2481,6 +2697,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 60.96 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 60.96 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 60.96 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2607,7 +2856,7 @@
 				)
 			)
 		)
-		(property "Value" "Volume +"
+		(property "Value" "Push Button"
 			(at 90.17 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2628,7 +2877,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 90.17 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2673,6 +2922,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3105,7 +3387,7 @@
 				)
 			)
 		)
-		(property "Value" "OK"
+		(property "Value" "Push Button"
 			(at 191.77 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3126,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3171,6 +3453,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 191.77 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "B3U-1100PM-B"
+			(at 191.77 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+			(at 191.77 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)

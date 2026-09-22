@@ -3646,7 +3646,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 95.25 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -3657,7 +3657,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 95.25 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -3680,6 +3680,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 95.25 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW0402100KFKED"
+			(at 95.25 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW0402100KFKED/1178235"
+			(at 95.25 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW0402100KFKED?qs=OlqPY1CiralZGKRwQ4Glcg%3D%3D"
 			(at 95.25 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -4196,6 +4229,39 @@
 				)
 			)
 		)
+		(property "Mfr. Part #" "ICS-43434"
+			(at 73.66 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/tdk-invensense/ICS-43434/6140298"
+			(at 73.66 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/TDK-InvenSense/ICS-43434?qs=u4fy%2FsgLU9PAgmWRI7%252BqXA%3D%3D"
+			(at 73.66 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "353b849f-d3c4-4b5a-981d-410ec17ee86e")
 		)
@@ -4266,7 +4332,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0018_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707191428"
 			(at 151.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4277,7 +4343,7 @@
 				)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "0402"
 			(at 151.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4333,6 +4399,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 151.13 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "BLM15AG601SN1D"
+			(at 151.13 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/murata-electronics/BLM15AG601SN1D/584217"
+			(at 151.13 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Murata-Electronics/BLM15AG601SN1D?qs=%2FjCH2pcB5WLSIF5DG9Nbqw%3D%3D"
 			(at 151.13 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -5340,7 +5439,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 172.72 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -5351,7 +5450,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0603"
 			(at 172.72 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -5374,6 +5473,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 172.72 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW0603470RFKEA"
+			(at 172.72 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW0603470RFKEA/1174630"
+			(at 172.72 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW0603470RFKEA?qs=2LLIXXYaQepTa3IToKeExA%3D%3D"
 			(at 172.72 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -6244,7 +6376,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 172.72 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6255,7 +6387,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0603"
 			(at 172.72 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6278,6 +6410,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 172.72 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW0603470RFKEA"
+			(at 172.72 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW0603470RFKEA/1174630"
+			(at 172.72 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW0603470RFKEA?qs=2LLIXXYaQepTa3IToKeExA%3D%3D"
 			(at 172.72 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -6382,6 +6547,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 73.66 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "ICS-43434"
+			(at 73.66 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/tdk-invensense/ICS-43434/6140298"
+			(at 73.66 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/TDK-InvenSense/ICS-43434?qs=u4fy%2FsgLU9PAgmWRI7%252BqXA%3D%3D"
 			(at 73.66 153.67 0)
 			(hide yes)
 			(show_name no)

@@ -5541,7 +5541,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 127 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -5552,7 +5552,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 127 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -5586,6 +5586,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 127 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW040210K0FKED"
+			(at 127 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW040210K0FKED/1178121"
+			(at 127 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW040210K0FKED?qs=rlE3Te1NifyN3e8vvxacSw%3D%3D"
 			(at 127 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6663,7 +6696,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Power SW"
+		(property "Value" "Toggle Switch"
 			(at 201.93 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6685,7 +6718,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://gct.co/download?type=PDFSpecification&name=sws010-spec.pdf"
 			(at 204.47 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6730,6 +6763,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 196.85 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "SWS010-020R12SSA"
+			(at 196.85 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/gct/SWS010-020R12SSA/29426304"
+			(at 196.85 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/GCT/SWS010-020R12SSA?qs=Naspt24KZtmuNo3rehdP0w%3D%3D"
 			(at 196.85 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -6802,7 +6868,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 82.55 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6813,7 +6879,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0402"
 			(at 82.55 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6847,6 +6913,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 82.55 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "CRCW04021K00FKED"
+			(at 82.55 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-dale/CRCW04021K00FKED/1178007"
+			(at 82.55 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay/CRCW04021K00FKED?qs=YX%252BK5oaHNYqQ2WK%252BIAW12A%3D%3D"
 			(at 82.55 104.14 0)
 			(hide yes)
 			(show_name no)
