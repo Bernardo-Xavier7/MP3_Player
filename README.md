@@ -12,7 +12,9 @@ Just a simple MP3 player project. Features a built-in microphone, FM module, Wif
     - [x] Buttons
     - [x] Display
     - [x] Wireless
-    - [ ] Revision
+    - [x] Revision
+    - [ ] BOM
+    - [ ] Footprint Assignment
   - [ ] PCB
     - [ ] Layout
     - [ ] Routing
