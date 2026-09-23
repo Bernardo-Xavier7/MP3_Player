@@ -1129,7 +1129,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 99.06) (xy 153.67 99.06)
+			(xy 172.72 99.06) (xy 153.67 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1189,7 +1189,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 85.09) (xy 171.45 99.06)
+			(xy 172.72 85.09) (xy 172.72 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1399,7 +1399,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 85.09) (xy 182.88 85.09)
+			(xy 172.72 85.09) (xy 182.88 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1534,7 +1534,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.222 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -1671,7 +1671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 184.658 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -1808,7 +1808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 194.31 86.0552 0)
 			(hide yes)
 			(show_name no)
@@ -1978,7 +1978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 177.038 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -2126,7 +2126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.cuidevices.com/product/resource/digikeypdf/msd-1-a.pdf"
 			(at 153.67 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -2160,6 +2160,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 153.67 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "MSD-1-A"
+			(at 153.67 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/MSD-1-A/21799641"
+			(at 153.67 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Same-Sky/MSD-1-A?qs=sGAEpiMZZMvlX3nhDDO4AIrDL%2Fdv%252BVHxfeDZpUs0HoY%3D"
 			(at 153.67 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -2398,7 +2431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 194.31 96.2152 0)
 			(hide yes)
 			(show_name no)
@@ -2648,7 +2681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 117.602 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -2864,7 +2897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 192.278 105.41 90)
 			(hide yes)
 			(show_name no)

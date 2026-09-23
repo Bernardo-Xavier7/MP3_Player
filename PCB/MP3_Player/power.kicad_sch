@@ -3690,7 +3690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
 			(at 120.65 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -3701,7 +3701,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
+		(property "Description" "JST 2.0 PH"
 			(at 120.65 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -3735,6 +3735,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 120.65 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "S2B-PH-SM4-TB"
+			(at 120.65 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwUBMVIAuoQA4AuUIAyuwE4BLAHYBzEAF9CADimIQKSBhwFiZcHTABmOjGZtOkHv2FjJ4OFITR5aLHkIlI5RkzMBaCnIVL7qpyE0AdnpmcTM6NQArbHYAAjoAOipY1gALUKA"
+			(at 120.65 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "http://pt.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-TBLFSN?qs=QpmGXVUTftGPIOdg%2F2bstg%3D%3D"
 			(at 120.65 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -4107,7 +4140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 132.08 85.3948 0)
 			(hide yes)
 			(show_name no)
@@ -4354,7 +4387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 140.0048 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4949,7 +4982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 94.9452 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5530,7 +5563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.222 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -6098,7 +6131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 187.6552 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6243,7 +6276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "N/A"
 			(at 56.896 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -6265,7 +6298,7 @@
 				)
 			)
 		)
-		(property "Description" "Single-cell battery"
+		(property "Description" ""
 			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6332,6 +6365,28 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 58.42 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "N/A"
+			(at 58.42 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "N/A"
 			(at 58.42 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -6857,7 +6912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 80.772 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -7004,7 +7059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 141.9352 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7328,7 +7383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 155.9052 87.63 0)
 			(hide yes)
 			(show_name no)

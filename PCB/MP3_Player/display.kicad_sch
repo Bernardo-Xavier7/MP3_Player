@@ -1793,7 +1793,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "N/A"
 			(at 77.47 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -1849,6 +1849,28 @@
 			)
 		)
 		(property "Mfr. Part #" "TST09602A"
+			(at 77.47 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "N/A"
+			(at 77.47 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "N/A"
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -2070,7 +2092,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.irisoconnectors.com/system/cms/assets/uploads/files/spec-sheets/product/original/is-9640a-1.pdf?1543584151"
+		(property "Datasheet" "https://www.hirose.com/product/document?clcode=CL0480-0514-0-00&productname=TF29-13S-0.4SH(800)&series=TF29&documenttype=Catalog&lang=en&documentid=D167191_en"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2125,7 +2147,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "IMSA-9640S-13Y900"
+		(property "Mfr. Part #" "TF29-13S-0.4SH(800)"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2136,7 +2158,18 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/iriso/IMSA-9640S-13Y900/26774114"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/hirose-electric-co-ltd/TF29-13S-0-4SH-800/11204980?s=N4IgTCBcDaICoDEwE4C0BGAzAZVQBgDoAWbACQAoAOPPAShAF0BfIA"
+			(at 154.94 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Hirose-Connector/TF29-13S-0.4SH800?qs=T3oQrply3y8YJrVVdrUYPw%3D%3D"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2229,7 +2262,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 159.7152 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2555,7 +2588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 116.078 90.17 90)
 			(hide yes)
 			(show_name no)
@@ -3113,7 +3146,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 102.87 98.298 90)
 			(hide yes)
 			(show_name no)
@@ -3259,7 +3292,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 133.35 89.408 90)
 			(hide yes)
 			(show_name no)

@@ -3129,7 +3129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.222 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -3528,7 +3528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.222 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -4003,7 +4003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 164.592 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -4320,7 +4320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 88.392 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -4545,7 +4545,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/K75p114.pdf"
 			(at 182.88 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -4590,6 +4590,39 @@
 			)
 		)
 		(property "Store URL - TME" ""
+			(at 186.69 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr. Part #" "931"
+			(at 186.69 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/keystone-electronics/931/2745644"
+			(at 186.69 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Keystone-Electronics/931?qs=sZfk%252BfAlGe6kAJ2DZDSUqA%3D%3D"
 			(at 186.69 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4977,7 +5010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 136.398 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -5125,7 +5158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 144.018 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -5273,7 +5306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 91.1352 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5501,7 +5534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 164.592 146.05 90)
 			(hide yes)
 			(show_name no)
