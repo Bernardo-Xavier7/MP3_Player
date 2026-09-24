@@ -1761,7 +1761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 191.77 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2055,7 +2055,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2201,7 +2201,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 220.98 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2495,7 +2495,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2641,7 +2641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2866,7 +2866,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 90.17 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -3397,7 +3397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
