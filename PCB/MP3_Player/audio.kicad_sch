@@ -3635,7 +3635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.472 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -3838,7 +3838,7 @@
 				)
 			)
 		)
-		(property "Value" "AudioPlug4"
+		(property "Value" "AudioPlugTRRS"
 			(at 232.41 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3848,7 +3848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
+		(property "Footprint" ""
 			(at 223.52 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -3859,7 +3859,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/203691/asj-190-x-data-sheet.pdf"
+		(property "Datasheet" "https://app.adam-tech.com/resources/download/65/ecatalog-2026.pdf"
 			(at 223.52 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -3903,7 +3903,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "ASJ-190-A"
+		(property "Mfr. Part #" "ASJ-147B-R-G-KT-T/R"
 			(at 232.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3914,7 +3914,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/adam-tech/ASJ-190-A/9831581"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/adam-tech/ASJ-147B-R-G-KT-T-R/26685636"
 			(at 232.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3925,7 +3925,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Adam-Tech/ASJ-190-A?qs=HoCaDK9Nz5dToh9HC6AKDA%3D%3D"
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Adam-Tech/ASJ-147B-R-G-KT-T-R?qs=ST9lo4GX8V2ZS4l71VM71A%3D%3D"
 			(at 232.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5461,7 +5461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 172.72 80.772 90)
 			(hide yes)
 			(show_name no)
@@ -6398,7 +6398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 172.72 81.788 90)
 			(hide yes)
 			(show_name no)
@@ -6809,7 +6809,7 @@
 				)
 			)
 		)
-		(property "Value" "AudioPlug4"
+		(property "Value" "AudioPlugTRRS"
 			(at 232.41 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6819,7 +6819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
+		(property "Footprint" ""
 			(at 223.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6830,7 +6830,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/203691/asj-190-x-data-sheet.pdf"
+		(property "Datasheet" "https://app.adam-tech.com/resources/download/65/ecatalog-2026.pdf"
 			(at 223.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6874,7 +6874,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "ASJ-190-A"
+		(property "Mfr. Part #" "ASJ-147B-R-G-KT-T/R"
 			(at 232.41 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6885,7 +6885,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/adam-tech/ASJ-190-A/9831581"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/adam-tech/ASJ-147B-R-G-KT-T-R/26685636"
 			(at 232.41 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6896,7 +6896,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Adam-Tech/ASJ-190-A?qs=HoCaDK9Nz5dToh9HC6AKDA%3D%3D"
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Adam-Tech/ASJ-147B-R-G-KT-T-R?qs=ST9lo4GX8V2ZS4l71VM71A%3D%3D"
 			(at 232.41 72.39 0)
 			(hide yes)
 			(show_name no)

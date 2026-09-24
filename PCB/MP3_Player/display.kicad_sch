@@ -2409,7 +2409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 143.51 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -2588,7 +2588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 116.078 90.17 90)
 			(hide yes)
 			(show_name no)
@@ -2893,7 +2893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23"
 			(at 128.27 98.425 0)
 			(hide yes)
 			(show_name no)
@@ -3146,7 +3146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 102.87 98.298 90)
 			(hide yes)
 			(show_name no)
@@ -3292,7 +3292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 133.35 89.408 90)
 			(hide yes)
 			(show_name no)

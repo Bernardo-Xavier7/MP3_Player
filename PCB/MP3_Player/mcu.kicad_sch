@@ -7119,7 +7119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8679,7 +8679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 252.73 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9025,7 +9025,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
 			(at 50.8 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -9694,7 +9694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Boot Select"
+		(property "Value" "Addr Select"
 			(at 48.26 177.7999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9705,7 +9705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
 			(at 50.8 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 252.73 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -10834,7 +10834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 64.77 89.408 90)
 			(hide yes)
 			(show_name no)
@@ -11004,7 +11004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 161.29 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11104,7 +11104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 56.642 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -12060,7 +12060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.022 153.67 90)
 			(hide yes)
 			(show_name no)
