@@ -2081,7 +2081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TF29-13S-0.4SH(800):HRS_TF29-13S-0.4SH_800_"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2409,7 +2409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 143.51 73.66 0)
 			(hide yes)
 			(show_name no)

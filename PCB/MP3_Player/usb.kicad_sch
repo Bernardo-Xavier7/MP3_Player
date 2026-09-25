@@ -3743,7 +3743,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SL22"
+		(property "Value" "MBR120VLSF"
 			(at 159.512 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3754,7 +3754,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMB"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3765,7 +3765,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88741/sl22.pdf"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr120vlsft1-d.pdf"
 			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3776,7 +3776,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode DO-214AA (SMB)"
+		(property "Description" "DIODE SCHOTTKY 20V 1A SOD123FL"
 			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3842,7 +3842,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "SL22-E3/5BT"
+		(property "Mfr. Part #" "MBR120VLSFT3G"
 			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -3853,7 +3853,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-general-semiconductor-diodes-division/SL22-E3-5BT/2146301"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/onsemi/MBR120VLSFT3G/1477157?s=N4IgTCBcDaILICEBKBGMAGAagGQMoDEAVAZgHEQBdAXyA"
 			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -3864,7 +3864,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay-Semiconductors/SL22-E3-5BT?qs=nmw3K3MsCZYHekq5zo30%252Bg%3D%3D"
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/onsemi/MBR120VLSFT3G?qs=3JMERSakebrD2yr9jFliaA%3D%3D"
 			(at 161.29 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4139,7 +4139,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SL22"
+		(property "Value" "MBR120VLSF"
 			(at 168.148 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4150,7 +4150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMB"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 166.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4161,7 +4161,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88741/sl22.pdf"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr120vlsft1-d.pdf"
 			(at 166.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4172,7 +4172,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode DO-214AA (SMB)"
+		(property "Description" "DIODE SCHOTTKY 20V 1A SOD123FL"
 			(at 166.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4238,7 +4238,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "SL22-E3/5BT"
+		(property "Mfr. Part #" "MBR120VLSFT3G"
 			(at 166.37 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4249,7 +4249,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/vishay-general-semiconductor-diodes-division/SL22-E3-5BT/2146301"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/onsemi/MBR120VLSFT3G/1477157?s=N4IgTCBcDaILICEBKBGMAGAagGQMoDEAVAZgHEQBdAXyA"
 			(at 166.37 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4260,7 +4260,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Vishay-Semiconductors/SL22-E3-5BT?qs=nmw3K3MsCZYHekq5zo30%252Bg%3D%3D"
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/onsemi/MBR120VLSFT3G?qs=3JMERSakebrD2yr9jFliaA%3D%3D"
 			(at 166.37 33.02 90)
 			(hide yes)
 			(show_name no)

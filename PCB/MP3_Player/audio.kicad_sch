@@ -3848,7 +3848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SJ3-35044A:SAMESKY_SJ3-35044A"
 			(at 223.52 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -3859,7 +3859,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/resources/download/65/ecatalog-2026.pdf"
+		(property "Datasheet" "https://www.cuidevices.com/product/resource/digikeypdf/sj3-35044a.pdf"
 			(at 223.52 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -3903,7 +3903,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "ASJ-147B-R-G-KT-T/R"
+		(property "Mfr. Part #" "SJ3-35044A"
 			(at 232.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3914,7 +3914,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/adam-tech/ASJ-147B-R-G-KT-T-R/26685636"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SJ3-35044A/24627965"
 			(at 232.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3925,7 +3925,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Adam-Tech/ASJ-147B-R-G-KT-T-R?qs=ST9lo4GX8V2ZS4l71VM71A%3D%3D"
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Same-Sky/SJ3-35044A?qs=IKkN%2F947nfA%2F9r2%2FyF4SEA%3D%3D"
 			(at 232.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -6819,7 +6819,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SJ3-35044A:SAMESKY_SJ3-35044A"
 			(at 223.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6830,7 +6830,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/resources/download/65/ecatalog-2026.pdf"
+		(property "Datasheet" "https://www.cuidevices.com/product/resource/digikeypdf/sj3-35044a.pdf"
 			(at 223.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6874,7 +6874,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "ASJ-147B-R-G-KT-T/R"
+		(property "Mfr. Part #" "SJ3-35044A"
 			(at 232.41 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6885,7 +6885,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/adam-tech/ASJ-147B-R-G-KT-T-R/26685636"
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SJ3-35044A/24627965"
 			(at 232.41 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6896,7 +6896,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Adam-Tech/ASJ-147B-R-G-KT-T-R?qs=ST9lo4GX8V2ZS4l71VM71A%3D%3D"
+		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Same-Sky/SJ3-35044A?qs=IKkN%2F947nfA%2F9r2%2FyF4SEA%3D%3D"
 			(at 232.41 72.39 0)
 			(hide yes)
 			(show_name no)
