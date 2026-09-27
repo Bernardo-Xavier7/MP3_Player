@@ -3,7 +3,7 @@ Just a simple MP3 player project. Features a built-in microphone, FM module, Wif
 
 # To-Do
 - [ ] Hardware
-  - [ ] Schematic
+  - [x] Schematic
     - [x] MCU
     - [x] USB
     - [x] Power
@@ -13,8 +13,8 @@ Just a simple MP3 player project. Features a built-in microphone, FM module, Wif
     - [x] Display
     - [x] Wireless
     - [x] Revision
-    - [ ] BOM
-    - [ ] Footprint Assignment
+    - [x] BOM
+    - [x] Footprint Assignment
   - [ ] PCB
     - [ ] Layout
     - [ ] Routing
