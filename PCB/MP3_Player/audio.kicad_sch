@@ -3426,6 +3426,16 @@
 		)
 		(uuid "d164e503-2f8a-4312-83f5-5caeb6c2a5ad")
 	)
+	(label "LDO_OUT"
+		(at 180.34 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da3f4452-ac0c-429b-a7e0-5fa61d92f6de")
+	)
 	(label "CAPP"
 		(at 166.37 87.63 0)
 		(effects
@@ -3445,6 +3455,16 @@
 			(justify left bottom)
 		)
 		(uuid "f705b08c-ded1-4533-89b8-27b0bdd0c4d8")
+	)
+	(label "VNEG_CAP"
+		(at 168.91 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7dcef60-8941-4f19-8720-c8fb7cb1a12d")
 	)
 	(hierarchical_label "DAC_XSMT"
 		(shape input)

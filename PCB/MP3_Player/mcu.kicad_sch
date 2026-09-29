@@ -5719,6 +5719,16 @@
 		)
 		(uuid "e73a93a0-4bf3-493c-938c-9ccd4c0f5386")
 	)
+	(label "ADDR_SELECT"
+		(at 54.61 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef901a93-cb11-4863-b1c5-623100771a7e")
+	)
 	(hierarchical_label "DAC_DIN"
 		(shape output)
 		(at 214.63 93.98 0)
