@@ -2974,6 +2974,16 @@
 		)
 		(uuid "fb9f88e0-1d6e-4f80-9595-e79cf0700644")
 	)
+	(label "Boot Select"
+		(at 158.75 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "550ac219-9492-495c-9b6a-8e5cc689772b")
+	)
 	(hierarchical_label "RDY"
 		(shape output)
 		(at 109.22 87.63 180)

@@ -3029,7 +3029,7 @@
 		)
 		(uuid "f2b48b6b-2fdb-4376-ad91-e2b460329f2c")
 	)
-	(hierarchical_label "Sensing_USB-A"
+	(hierarchical_label "Sensing_USB-C"
 		(shape output)
 		(at 163.83 152.4 180)
 		(effects
@@ -3040,7 +3040,7 @@
 		)
 		(uuid "0be6302f-9b7c-412b-9893-89334980a92f")
 	)
-	(hierarchical_label "Sensing_USB-C"
+	(hierarchical_label "Sensing_USB-A"
 		(shape output)
 		(at 124.46 152.4 180)
 		(effects
