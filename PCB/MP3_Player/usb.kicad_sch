@@ -2949,7 +2949,7 @@
 		)
 		(uuid "f450a809-aa68-4b1d-ac24-48e80f73378c")
 	)
-	(label "USB-A_DM"
+	(label "USB-A_DN"
 		(at 128.27 93.98 0)
 		(effects
 			(font
@@ -2999,7 +2999,7 @@
 		)
 		(uuid "81184fb2-4f5d-4861-89d4-057a3528a77d")
 	)
-	(label "USB-C_DM"
+	(label "USB-C_DN"
 		(at 128.27 86.36 0)
 		(effects
 			(font
