@@ -5,4 +5,5 @@
 	(lib (name "MSD-1-A") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/MSD-1-A.pretty") (options "") (descr ""))
 	(lib (name "TF29-13S-0.4SH(800)") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/TF29-13S-0.4SH(800).pretty") (options "") (descr ""))
 	(lib (name "SJ3-35044A") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/SJ3-35044A.pretty") (options "") (descr ""))
+	(lib (name "TS3USB221AQRSERQ1") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/TS3USB221AQRSERQ1.pretty") (options "") (descr ""))
 )
