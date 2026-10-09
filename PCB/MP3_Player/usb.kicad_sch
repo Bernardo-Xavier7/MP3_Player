@@ -3281,7 +3281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "06d446f6-2d94-4dfd-ae17-ba978dea469e")
-		(property "Reference" "IC1"
+		(property "Reference" "U4"
 			(at 101.6 77.216 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3315,7 +3315,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/scds300e/scds300e.pdf"
 			(at 92.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3518,6 +3518,39 @@
 				(justify bottom)
 			)
 		)
+		(property "Mfr. Part #" "TS3USB221A-Q1 "
+			(at 92.71 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.com/en/products/detail/texas-instruments/TS3USB221AQRSERQ1/2356129"
+			(at 92.71 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/Texas-Instruments/TS3USB221AQRSERQ1?qs=0zjllh%252Bnl7aR1p0hCAkrQg%3D%3D&utm_id=24220444990&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=24220444990&gbraid=0AAAAADn_wf3bBX7SFUgyO766q6os0wX-w&gclid=CjwKCAjwifjVBhBKEiwAYx4K9JuAl4mT--sc98itxdmHOnnEhai6YxXHtRtWpTKQ-h0O4Dv477LJrBoCLbMQAvD_BwE"
+			(at 92.71 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "22f5fe29-e1e5-41c5-949b-1ea02946e51a")
 		)
@@ -3551,7 +3584,7 @@
 		(instances
 			(project "MP3_Player"
 				(path "/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487"
-					(reference "IC1")
+					(reference "U4")
 					(unit 1)
 				)
 			)

@@ -1761,7 +1761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 191.77 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1772,7 +1772,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 191.77 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1783,7 +1783,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1827,7 +1827,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1838,7 +1838,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1849,7 +1849,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2055,7 +2055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2066,7 +2066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2077,7 +2077,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2121,7 +2121,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2132,7 +2132,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2143,7 +2143,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2201,7 +2201,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 220.98 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2212,7 +2212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 220.98 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2223,7 +2223,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2267,7 +2267,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2278,7 +2278,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2289,7 +2289,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2495,7 +2495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2506,7 +2506,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2517,7 +2517,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2561,7 +2561,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2572,7 +2572,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2583,7 +2583,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2641,7 +2641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2652,7 +2652,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2663,7 +2663,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2707,7 +2707,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2718,7 +2718,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2729,7 +2729,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2866,7 +2866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 90.17 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2877,7 +2877,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 90.17 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2888,7 +2888,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2932,7 +2932,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2943,7 +2943,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2954,7 +2954,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3397,7 +3397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1100P-B"
+		(property "Footprint" ""
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3408,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf"
+		(property "Datasheet" ""
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3419,7 +3419,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3463,7 +3463,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "B3U-1100PM-B"
+		(property "Mfr. Part #" ""
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3474,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/aratas-formerly-omron-components/B3U-1100PM-B/26811828?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArACYAHIhApIGHAWJkQtWVVoxaTVh0jc%2BQ0RJCSYAdgVKVeQiUjlpVCrWm3mIdpx4CIuKEYHCyCNCKaFiO6i4gVExiyUA"
+		(property "Store URL - Digikey" ""
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3485,7 +3485,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Omron-Electronics/B3U-1100PM-B?qs=hnUcNC2tU0rEzAhA%2F6P6YQ%3D%3D"
+		(property "Store URL - Mouser" ""
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
