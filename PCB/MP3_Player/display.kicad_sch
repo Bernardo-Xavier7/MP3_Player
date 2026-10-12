@@ -1804,7 +1804,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.panelook.com/TST09602A-0-96inch-IPS-TFT-LCD-screen-80-160-350cd-m-sup2-13PINS-SPI-ST7735S-Wearable-LCD-detail_134063.html"
+		(property "Datasheet" ""
 			(at 77.47 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -1815,7 +1815,7 @@
 				)
 			)
 		)
-		(property "Description" "0.96 inch IPS TFT LCD screen 80x160 350cd/m² 13PINS SPI ST7735S"
+		(property "Description" ""
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -1848,7 +1848,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" "TST09602A"
+		(property "Mfr. Part #" ""
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)

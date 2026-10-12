@@ -1761,7 +1761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 191.77 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1772,7 +1772,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 191.77 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1783,7 +1783,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1827,7 +1827,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1838,7 +1838,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1849,7 +1849,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2055,7 +2055,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2066,7 +2066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2077,7 +2077,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2121,7 +2121,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2132,7 +2132,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2143,7 +2143,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 162.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2201,7 +2201,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 220.98 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2212,7 +2212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 220.98 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2223,7 +2223,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2267,7 +2267,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2278,7 +2278,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2289,7 +2289,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 220.98 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2495,7 +2495,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2506,7 +2506,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2517,7 +2517,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2561,7 +2561,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2572,7 +2572,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2583,7 +2583,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 191.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2641,7 +2641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2652,7 +2652,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2663,7 +2663,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2707,7 +2707,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2718,7 +2718,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2729,7 +2729,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 60.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2866,7 +2866,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 90.17 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2877,7 +2877,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 90.17 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2888,7 +2888,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2932,7 +2932,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2943,7 +2943,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2954,7 +2954,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3397,7 +3397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3408,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL1017.pdf"
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3419,7 +3419,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Interruptor tátil SPST-NA Top atuado Montagem em superfície"
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3463,7 +3463,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "TL1017ABAF260QG"
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3474,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Store URL - Digikey" ""
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/e-switch/TL1017ABAF260QG/18687016"
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3485,7 +3485,7 @@
 				)
 			)
 		)
-		(property "Store URL - Mouser" ""
+		(property "Store URL - Mouser" "https://eu.mouser.com/en/ProductDetail/E-Switch/TL1017ABAF260QG?qs=9vOqFld9vZVWa2gSWDc0aQ%3D%3D"
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)

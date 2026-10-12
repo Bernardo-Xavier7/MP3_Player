@@ -3737,7 +3737,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj3-35044a.pdf"
 			(at 229.87 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3902,6 +3902,28 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Mfr. Part #" "SJ3-35044A"
+			(at 229.87 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SJ3-35044A/24627965?s=N4IgTCBcDaIMoCkDMBaJBWADAFmwQRAF0BfIA"
+			(at 229.87 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4969,7 +4991,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj3-35044a.pdf"
 			(at 229.87 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5134,6 +5156,28 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Mfr. Part #" "SJ3-35044A"
+			(at 229.87 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SJ3-35044A/24627965?s=N4IgTCBcDaIMoCkDMBaJBWADAFmwQRAF0BfIA"
+			(at 229.87 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
