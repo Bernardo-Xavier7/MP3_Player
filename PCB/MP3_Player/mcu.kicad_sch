@@ -5762,17 +5762,6 @@
 		)
 		(uuid "0c0e1013-1ea7-4038-9b94-1782ab6a8ef5")
 	)
-	(hierarchical_label "B_Ok"
-		(shape input)
-		(at 95.25 168.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "11945c23-8edc-4f7f-bdcd-b745f0155203")
-	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 45.72 161.29 180)
@@ -5993,16 +5982,16 @@
 		)
 		(uuid "8bcbbe17-dc19-4a27-a584-64218529a24b")
 	)
-	(hierarchical_label "B_Left"
+	(hierarchical_label "B_Right"
 		(shape input)
-		(at 95.25 163.83 0)
+		(at 95.25 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "975b1ecf-5ff3-4b9d-8979-003f7d3b356a")
+		(uuid "8c35a5c1-bea6-4525-8b92-6ee5438c78be")
 	)
 	(hierarchical_label "+VBAT"
 		(shape bidirectional)
@@ -6092,6 +6081,28 @@
 		)
 		(uuid "c3084183-4a19-442a-9579-092b459b74ad")
 	)
+	(hierarchical_label "B_Down"
+		(shape input)
+		(at 95.25 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c59038d8-dcda-4612-9b83-5fcd707c14aa")
+	)
+	(hierarchical_label "B_Ok"
+		(shape input)
+		(at 95.25 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb070619-3e10-4b55-9109-c13110379317")
+	)
 	(hierarchical_label "DAC_BCK"
 		(shape output)
 		(at 173.99 96.52 180)
@@ -6113,17 +6124,6 @@
 			(justify right)
 		)
 		(uuid "d3d02bfd-42cb-4b89-8d4a-68470917cb07")
-	)
-	(hierarchical_label "B_Down"
-		(shape input)
-		(at 95.25 161.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d74f43fb-149c-4610-a0de-50081ce6324d")
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
@@ -6169,16 +6169,16 @@
 		)
 		(uuid "f300978d-161d-4ff7-b6c6-10e935c3932d")
 	)
-	(hierarchical_label "B_Right"
+	(hierarchical_label "B_Left"
 		(shape input)
-		(at 95.25 166.37 0)
+		(at 95.25 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "ff9d983c-a91a-450d-99c1-a833ed73fab3")
+		(uuid "ff6d36b1-15cb-400a-a023-9ffa6d105bd8")
 	)
 	(symbol
 		(lib_id "Device:C")
