@@ -2336,16 +2336,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 102.87) (xy 168.91 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09f75cc9-4fc5-4a04-a5ca-c1f763fa3110")
-	)
-	(wire
-		(pts
 			(xy 191.77 100.33) (xy 203.2 100.33)
 		)
 		(stroke
@@ -2363,6 +2353,16 @@
 			(type default)
 		)
 		(uuid "0f552c1d-2162-497c-9211-2606fce96fd3")
+	)
+	(wire
+		(pts
+			(xy 168.91 104.14) (xy 168.91 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13b6ad47-d0c9-4fea-b089-4e812822700d")
 	)
 	(wire
 		(pts
@@ -2463,6 +2463,16 @@
 			(type default)
 		)
 		(uuid "345d4250-e9a7-4140-aff7-58dd633787da")
+	)
+	(wire
+		(pts
+			(xy 168.91 102.87) (xy 166.37 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38a88862-3dc4-44e0-8563-b080afde7d3a")
 	)
 	(wire
 		(pts
@@ -3126,16 +3136,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 102.87) (xy 168.91 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b42f35bc-e4db-4937-ab56-dc5b6be59e5d")
-	)
-	(wire
-		(pts
 			(xy 151.13 113.03) (xy 153.67 113.03)
 		)
 		(stroke
@@ -3578,7 +3578,7 @@
 		(at 180.34 100.33 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 0.635 0.635)
 			)
 			(justify left bottom)
 		)
@@ -3605,10 +3605,10 @@
 		(uuid "f705b08c-ded1-4533-89b8-27b0bdd0c4d8")
 	)
 	(label "VNEG_CAP"
-		(at 168.91 102.87 0)
+		(at 166.37 102.87 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 0.635 0.635)
 			)
 			(justify left bottom)
 		)

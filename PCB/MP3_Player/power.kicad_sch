@@ -3561,6 +3561,16 @@
 		)
 		(uuid "f2520520-1bbb-4e42-a8d1-e62354507bd3")
 	)
+	(label "TS"
+		(at 115.57 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "00a96fb6-fbe2-4908-938d-8383becde1a1")
+	)
 	(label "BAT +"
 		(at 123.19 129.54 90)
 		(effects
@@ -3570,6 +3580,16 @@
 			(justify left bottom)
 		)
 		(uuid "270e6454-1dc0-424e-ba7f-9e02b8f3ce67")
+	)
+	(label "EN1"
+		(at 86.36 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c6fe94b-4f6e-4104-97a6-3ee55a6fde8c")
 	)
 	(label "BAT_OUT"
 		(at 123.19 78.74 0)

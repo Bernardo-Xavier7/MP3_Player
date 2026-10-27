@@ -2616,6 +2616,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 73.66) (xy 110.49 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c84d508-8d04-48c7-aed0-2071d903fce6")
+	)
+	(wire
+		(pts
 			(xy 109.22 85.09) (xy 110.49 85.09)
 		)
 		(stroke
@@ -2653,6 +2663,16 @@
 			(type default)
 		)
 		(uuid "9639839e-57a2-4760-8925-6a079f668e13")
+	)
+	(wire
+		(pts
+			(xy 102.87 76.2) (xy 110.49 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9647c666-abf7-4be2-95d0-3d42ced83981")
 	)
 	(wire
 		(pts
@@ -2974,15 +2994,55 @@
 		)
 		(uuid "fb9f88e0-1d6e-4f80-9595-e79cf0700644")
 	)
-	(label "Boot Select"
-		(at 158.75 77.47 0)
+	(label "XATL_IN"
+		(at 157.48 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
+		(uuid "3caed03f-cf70-4ab5-b926-1dc8880ea578")
+	)
+	(label "XTAL_OUT"
+		(at 157.48 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "47138cd3-0882-4aa1-98c2-70b61f33a8b8")
+	)
+	(label "Boot Select"
+		(at 158.75 77.47 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
 		(uuid "550ac219-9492-495c-9b6a-8e5cc689772b")
+	)
+	(label "UART_TX"
+		(at 104.14 73.66 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "6bd3e3d3-c1b3-4217-9983-9204209fe6ee")
+	)
+	(label "UART_RX"
+		(at 104.0984 76.2 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "c46f320c-3fed-4b6a-972c-2e5d366a1190")
 	)
 	(hierarchical_label "RDY"
 		(shape output)
@@ -3749,7 +3809,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 110.49 73.66 90)
+		(at 102.87 73.66 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3760,7 +3820,7 @@
 		(fields_autoplaced yes)
 		(uuid "46c35abb-50aa-43c3-bbaa-48c430aa3f81")
 		(property "Reference" "TP1"
-			(at 107.188 68.58 90)
+			(at 99.568 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3770,7 +3830,7 @@
 			)
 		)
 		(property "Value" "UART_TX"
-			(at 107.188 71.12 90)
+			(at 99.568 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3780,7 +3840,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 110.49 68.58 0)
+			(at 102.87 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3791,7 +3851,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 68.58 0)
+			(at 102.87 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3802,7 +3862,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 110.49 73.66 0)
+			(at 102.87 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3813,7 +3873,7 @@
 			)
 		)
 		(property "Store URL - Other" ""
-			(at 110.49 73.66 90)
+			(at 102.87 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3824,7 +3884,7 @@
 			)
 		)
 		(property "Store URL - TME" ""
-			(at 110.49 73.66 90)
+			(at 102.87 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4265,7 +4325,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 110.49 76.2 90)
+		(at 102.87 76.2 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -4276,7 +4336,7 @@
 		(dnp no)
 		(uuid "718e8206-5572-471e-addb-67ab16b4fa5f")
 		(property "Reference" "TP2"
-			(at 107.188 81.28 90)
+			(at 99.568 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4286,7 +4346,7 @@
 			)
 		)
 		(property "Value" "UART_RX"
-			(at 107.188 78.74 90)
+			(at 99.568 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4296,7 +4356,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 110.49 81.28 0)
+			(at 102.87 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4307,7 +4367,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 81.28 0)
+			(at 102.87 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4318,7 +4378,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 110.49 76.2 0)
+			(at 102.87 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4329,7 +4389,7 @@
 			)
 		)
 		(property "Store URL - Other" ""
-			(at 110.49 76.2 90)
+			(at 102.87 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4340,7 +4400,7 @@
 			)
 		)
 		(property "Store URL - TME" ""
-			(at 110.49 76.2 90)
+			(at 102.87 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
