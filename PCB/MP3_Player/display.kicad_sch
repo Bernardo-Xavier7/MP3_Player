@@ -2744,7 +2744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32R-1A7x1-11025_1x25-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32R-1A7x1-11026_1x26-1MP_P0.5mm_Horizontal"
 			(at 176.53 100.33 0)
 			(hide yes)
 			(show_name no)
