@@ -431,27 +431,29 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
+			(property "Reference" "J5"
+				(at 1.9051 -3.81 90)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Value" "Conn_01x02_Pin"
-				(at 0 -5.08 0)
+			(property "Value" "BAT Connector"
+				(at -0.6349 -3.81 90)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -462,7 +464,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -473,8 +475,74 @@
 					)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x02, script generated"
+			(property "Description" "JST 2.0 PH"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Mfr. Part Number" ""
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Other" ""
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - TME" ""
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Mfr. Part #" "S2B-PH-SM4-TB"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwUBMVIAuoQA4AuUIAyuwE4BLAHYBzEAF9CADimIQKSBhwFiZcHTABmOjGZtOkHv2FjJ4OFITR5aLHkIlI5RkzMBaCnIVL7qpyE0AdnpmcTM6NQArbHYAAjoAOipY1gALUKA"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Mouser" "http://pt.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-TBLFSN?qs=QpmGXVUTftGPIOdg%2F2bstg%3D%3D"
+				(at 0 0 90)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -592,6 +660,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2762,6 +2848,12 @@
 		(uuid "de63071c-0c28-489e-962e-7437d3ee60a4")
 	)
 	(junction
+		(at 140.97 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea8e2f51-3837-4bb3-bd21-540ab82107db")
+	)
+	(junction
 		(at 158.75 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3293,6 +3385,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 129.54) (xy 140.97 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c891f72-1259-42ee-aac3-964613f11624")
+	)
+	(wire
+		(pts
 			(xy 85.09 69.85) (xy 186.69 69.85)
 		)
 		(stroke
@@ -3463,6 +3565,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 130.81) (xy 125.73 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfb7f852-ad61-4ba3-806f-80519c13969b")
+	)
+	(wire
+		(pts
 			(xy 123.19 121.92) (xy 127 121.92)
 		)
 		(stroke
@@ -3543,6 +3655,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 129.54) (xy 140.97 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9626ad1-32c4-44b8-8f6c-44ec899a6aea")
+	)
+	(wire
+		(pts
 			(xy 161.29 125.73) (xy 161.29 124.46)
 		)
 		(stroke
@@ -3580,16 +3702,6 @@
 			(justify left bottom)
 		)
 		(uuid "270e6454-1dc0-424e-ba7f-9e02b8f3ce67")
-	)
-	(label "EN1"
-		(at 86.36 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2c6fe94b-4f6e-4104-97a6-3ee55a6fde8c")
 	)
 	(label "BAT_OUT"
 		(at 123.19 78.74 0)
@@ -3675,10 +3787,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "05df571c-2886-4892-89db-1128eaaac41c")
 		(property "Reference" "J5"
-			(at 124.46 133.9849 90)
+			(at 124.46 135.382 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3689,7 +3800,7 @@
 			)
 		)
 		(property "Value" "BAT Connector"
-			(at 124.46 136.5249 90)
+			(at 124.46 137.668 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3803,6 +3914,9 @@
 		)
 		(pin "2"
 			(uuid "0f302072-1d18-425d-8281-2e54b70cc3f8")
+		)
+		(pin "MP"
+			(uuid "b8a722ab-9fb2-434b-88fb-20a1cf61b403")
 		)
 		(instances
 			(project "MP3_Player"

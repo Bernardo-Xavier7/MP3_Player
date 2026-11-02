@@ -20,29 +20,27 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -5.08 11.43 0)
+			(property "Reference" "J3"
+				(at 0 12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Value" "USB_A"
-				(at -5.08 8.89 0)
+				(at 0 10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal"
 				(at 3.81 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -53,7 +51,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.keyelco.com/userAssets/file/K75p114.pdf"
 				(at 3.81 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -65,6 +63,72 @@
 				)
 			)
 			(property "Description" "USB Type A connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Mfr. Part Number" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Other" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - TME" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Mfr. Part #" "931"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/keystone-electronics/931/2745644"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Keystone-Electronics/931?qs=sZfk%252BfAlGe6kAJ2DZDSUqA%3D%3D"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -333,14 +397,14 @@
 				(pin passive line
 					(at -2.54 -10.16 90)
 					(length 2.54)
-					(name "Shield"
+					(name "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "5"
+					(number "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -370,7 +434,7 @@
 					)
 				)
 			)
-			(property "Value" "USB_C_Receptacle_USB2.0_16P"
+			(property "Value" "USB_C_Receptacle_16P"
 				(at 0 20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -380,7 +444,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 				(at 3.81 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -391,7 +455,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(property "Datasheet" "https://pt.mouser.com/datasheet/3/6118/1/uj20_c_h_c_4_smt_tr.pdf"
 				(at 3.81 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -403,6 +467,39 @@
 				)
 			)
 			(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Mfr. Part #" "UJ20-C-H-C-4-SMT-TR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-C-4-SMT-TR/24766784?s=N4IgTCBcDaIKoCkwAYC0BhVAJDqAsqAygLIAqqpASiALoC%2BQA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Store URL - Mouser" "https://pt.mouser.com/en/ProductDetail/Same-Sky/UJ20-C-H-C-4-SMT-TR?qs=i8QVZAFTkqTaeFkL507bBA%3D%3D"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1046,7 +1143,7 @@
 				(pin passive line
 					(at -2.54 -22.86 90)
 					(length 5.08)
-					(name "SHIELD"
+					(name "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4956,7 +5053,7 @@
 				)
 			)
 		)
-		(pin "5"
+		(pin "SH"
 			(uuid "ee8f0505-f5de-4942-b817-83fd276a7e74")
 		)
 		(pin "3"
