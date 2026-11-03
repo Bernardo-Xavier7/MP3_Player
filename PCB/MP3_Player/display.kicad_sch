@@ -2209,7 +2209,7 @@
 				)
 			)
 		)
-		(property "Store URL - Other" ""
+		(property "Store URL - Other" "https://www.buydisplay.com/1-44-inch-tft-touch-screen-serial-spi-128x128-lcd-display-module-st7735"
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -2815,6 +2815,17 @@
 		)
 		(property "Description" ""
 			(at 180.594 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Other" "https://www.buydisplay.com/1-44-inch-tft-touch-screen-serial-spi-128x128-lcd-display-module-st7735"
+			(at 179.07 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
