@@ -17,8 +17,8 @@ Just a simple MP3 player project. Features a built-in microphone, Wifi and Bluet
     - [x] Footprint Assignment
   - [ ] PCB
     - [x] Layout
-    - [ ] Routing
-    - [ ] Revision
+    - [x] Routing
+    - [x] Revision
   - [ ] Firmware
     - [ ] Menu
       - [ ] Buttons
