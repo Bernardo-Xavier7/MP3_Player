@@ -1,0 +1,212 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "10.0.7-1.fc44"
+    },
+    "CreationDate": "2026-11-04T17:48:17+00:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "MP3_Player",
+      "GUID": "4d50335f-506c-4617-9965-722e6b696361",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 40.05,
+      "Y": 60.05
+    },
+    "LayerNumber": 6,
+    "BoardThickness": 1.6,
+    "Finish": "HAL lead-free"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.15,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.15,
+      "TrackToRegion": 0.45,
+      "RegionToRegion": 0.45
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "MP3_Player-Front (SIG).gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-Inner 1(GND).gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-Inner 2 (PWR).gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-Inner 3 (SIG).gbr",
+      "FileFunction": "Copper,L4,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-Inner 4 (GND).gbr",
+      "FileFunction": "Copper,L5,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-Back (SIG).gbr",
+      "FileFunction": "Copper,L6,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MP3_Player-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "MP3_Player-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "MP3_Player-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Color": "White",
+      "Material": "Direct Printing",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "Red",
+      "Thickness": 0.01,
+      "Material": "Liquid Ink",
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Front (SIG)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1,
+      "Material": "FR4",
+      "Name": "Front (SIG)/Inner 1(GND)",
+      "Notes": "Type: dielectric layer 1 (from Front (SIG) to Inner 1(GND))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Inner 1(GND)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.535,
+      "Material": "FR4",
+      "Name": "Inner 1(GND)/Inner 2 (PWR)",
+      "Notes": "Type: dielectric layer 2 (from Inner 1(GND) to Inner 2 (PWR))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Inner 2 (PWR)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1,
+      "Material": "FR4",
+      "Name": "Inner 2 (PWR)/Inner 3 (SIG)",
+      "Notes": "Type: dielectric layer 3 (from Inner 2 (PWR) to Inner 3 (SIG))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Inner 3 (SIG)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.535,
+      "Material": "FR4",
+      "Name": "Inner 3 (SIG)/Inner 4 (GND)",
+      "Notes": "Type: dielectric layer 4 (from Inner 3 (SIG) to Inner 4 (GND))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Inner 4 (GND)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1,
+      "Material": "FR4",
+      "Name": "Inner 4 (GND)/Back (SIG)",
+      "Notes": "Type: dielectric layer 5 (from Inner 4 (GND) to Back (SIG))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Back (SIG)"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "Red",
+      "Thickness": 0.01,
+      "Material": "Liquid Ink",
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Color": "White",
+      "Material": "Direct Printing",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

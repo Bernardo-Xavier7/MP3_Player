@@ -81,7 +81,12 @@
           "width": 0.15
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "items_not_allowed|152525000|72475000|19a942ae-0b85-4ca5-851c-919be74ffd58|00000000-0000-0000-0000-000000000000",
+          "Impossible to exculde, needs screw"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -591,7 +596,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/mnt/Data/Projects/MP3 Player/PCB/MP3_Player/Production Output/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
