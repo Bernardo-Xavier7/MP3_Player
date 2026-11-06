@@ -302,7 +302,27 @@
   "erc": {
     "erc_exclusions": [
       [
+        "footprint_link_issues|584200|1562100|92028d77-0844-4609-9009-2f602aeccf86|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "footprint_link_issues|774700|1371600|11fa4011-cdb5-4220-8be7-0287540b7c78|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "multiple_net_names|1206500|1295400|c5a8bb15-b657-4493-89a6-5442d5c54f49|9bd965ae-97a4-4056-b65e-11f02d4c8ca5|/5963f475-7f70-4482-9734-331d34890960/b677b029-7296-4947-a4eb-430dea0587a7|/5963f475-7f70-4482-9734-331d34890960/b677b029-7296-4947-a4eb-430dea0587a7|/5963f475-7f70-4482-9734-331d34890960/b677b029-7296-4947-a4eb-430dea0587a7",
+        ""
+      ],
+      [
+        "pin_to_pin|1003300|990600|252eca72-9495-4959-8d6e-9788b8fd1c18|c7d2e0d6-421f-4810-a9e3-0c1e998a5eed|/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487|/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487|/5963f475-7f70-4482-9734-331d34890960/b677b029-7296-4947-a4eb-430dea0587a7",
+        ""
+      ],
+      [
         "pin_to_pin|838200|1079500|353b849f-d3c4-4b5a-981d-410ec17ee86e|a3a1cb45-db42-44d8-baec-ffd95a9031d9|/5963f475-7f70-4482-9734-331d34890960/31a039c0-b270-42d0-8a83-cc75fb8b1933|/5963f475-7f70-4482-9734-331d34890960/31a039c0-b270-42d0-8a83-cc75fb8b1933|/5963f475-7f70-4482-9734-331d34890960/31a039c0-b270-42d0-8a83-cc75fb8b1933",
+        ""
+      ],
+      [
+        "pin_to_pin|876300|889000|940d60d7-3977-426f-adee-d3e4a0223e6d|c7d2e0d6-421f-4810-a9e3-0c1e998a5eed|/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487|/5963f475-7f70-4482-9734-331d34890960/1923b4e2-6cf4-4620-8e30-fa635a1e0487|/5963f475-7f70-4482-9734-331d34890960/b677b029-7296-4947-a4eb-430dea0587a7",
         ""
       ],
       [
@@ -315,6 +335,10 @@
       ],
       [
         "power_pin_not_driven|1562100|749300|50ce78e1-13bc-41ad-876b-bd8ef83df8bf|00000000-0000-0000-0000-000000000000|/5963f475-7f70-4482-9734-331d34890960/31a039c0-b270-42d0-8a83-cc75fb8b1933|/5963f475-7f70-4482-9734-331d34890960/31a039c0-b270-42d0-8a83-cc75fb8b1933|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1663700|889000|63dbbe6d-a236-4478-b1f6-1f0c668a41fb|00000000-0000-0000-0000-000000000000|/5963f475-7f70-4482-9734-331d34890960/1e0f00bf-47d5-4140-8872-42ff0d1cc4b4|/5963f475-7f70-4482-9734-331d34890960/1e0f00bf-47d5-4140-8872-42ff0d1cc4b4|",
         ""
       ],
       [
@@ -525,7 +549,7 @@
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
-      "lib_symbol_mismatch": "warning",
+      "lib_symbol_mismatch": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -611,7 +635,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "/mnt/Data/Projects/MP3 Player/PCB/MP3_Player/Production Output/BOM/MP3_Player.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -894,7 +918,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 0,
+      "hop_over_size_choice": 3,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,

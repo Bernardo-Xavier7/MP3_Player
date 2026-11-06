@@ -2220,7 +2220,7 @@
 				)
 			)
 		)
-		(property "Store URL - TME" ""
+		(property "Store URL - TME" "N/A"
 			(at 77.47 137.16 0)
 			(hide yes)
 			(show_name no)

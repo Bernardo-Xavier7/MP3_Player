@@ -3926,6 +3926,17 @@
 				)
 			)
 		)
+		(property "Store URL - Mouser" "https://eu.mouser.com/ProductDetail/Same-Sky/SJ3-35044A?qs=sGAEpiMZZMv0W4pxf2HiV1zEZeIadO864do9WJH241bvQsyrJJhvKQ%3D%3D"
+			(at 229.87 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f3c4decb-7220-4759-ba73-dccc1f9e01fc")
 		)
@@ -5170,6 +5181,17 @@
 			)
 		)
 		(property "Store URL - Digikey" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SJ3-35044A/24627965?s=N4IgTCBcDaIMoCkDMBaJBWADAFmwQRAF0BfIA"
+			(at 229.87 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Store URL - Mouser" "https://eu.mouser.com/ProductDetail/Same-Sky/SJ3-35044A?qs=sGAEpiMZZMv0W4pxf2HiV1zEZeIadO864do9WJH241bvQsyrJJhvKQ%3D%3D"
 			(at 229.87 53.34 0)
 			(hide yes)
 			(show_name no)

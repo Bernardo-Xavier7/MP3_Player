@@ -6498,7 +6498,7 @@
 				)
 			)
 		)
-		(property "Store URL - TME" ""
+		(property "Store URL - TME" "N/A"
 			(at 58.42 156.21 90)
 			(hide yes)
 			(show_name no)
