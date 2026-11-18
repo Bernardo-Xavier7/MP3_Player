@@ -4,4 +4,5 @@
 	(lib (name "ER-TFT1.44-1") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Schematics/TST09602A.kicad_sym") (options "") (descr ""))
 	(lib (name "ST67W611M1A6B") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Schematics/ST67W611M1A6B.kicad_sym") (options "") (descr ""))
 	(lib (name "TS3USB221AQRSERQ1") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Schematics/TS3USB221AQRSERQ1.kicad_sym") (options "") (descr ""))
+	(lib (name "SJ3-35044A") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Schematics/SJ3-35044A.kicad_sym") (options "") (descr ""))
 )

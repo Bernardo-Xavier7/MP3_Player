@@ -3595,6 +3595,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 77.47) (xy 140.97 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf89a09a-1018-48a8-9997-35ad0452b8c1")
+	)
+	(wire
+		(pts
 			(xy 196.85 78.74) (xy 196.85 76.2)
 		)
 		(stroke
@@ -4794,7 +4804,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 140.97 78.74 0)
+		(at 140.97 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4804,7 +4814,7 @@
 		(dnp no)
 		(uuid "386bfb6c-ea32-418a-9c8a-a2ee44de1533")
 		(property "Reference" "TP5"
-			(at 144.272 74.168 0)
+			(at 144.272 72.898 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4814,7 +4824,7 @@
 			)
 		)
 		(property "Value" "BQ_OUT"
-			(at 146.05 76.708 0)
+			(at 146.05 75.438 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4824,7 +4834,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 146.05 78.74 0)
+			(at 146.05 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4835,7 +4845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 78.74 0)
+			(at 146.05 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4846,7 +4856,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 140.97 78.74 0)
+			(at 140.97 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4857,7 +4867,7 @@
 			)
 		)
 		(property "Store URL - Other" ""
-			(at 140.97 78.74 0)
+			(at 140.97 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4868,7 +4878,7 @@
 			)
 		)
 		(property "Store URL - TME" ""
-			(at 140.97 78.74 0)
+			(at 140.97 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
